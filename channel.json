@@ -1,4 +1,10 @@
 [
   // Snippets plugin
-  "https://raw.githubusercontent.com/boombuler/microsnippets/master/repo.json"
+  "https://raw.githubusercontent.com/boombuler/microsnippets/master/repo.json",
+  
+  // Linter plugin
+  "https://raw.githubusercontent.com/micro-editor/linter-plugin/master/repo.json",
+  
+  // Go plugin
+  "https://raw.githubusercontent.com/micro-editor/go-plugin/master/repo.json"
 ]
