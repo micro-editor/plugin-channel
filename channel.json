@@ -1,10 +1,10 @@
 [
   // Fish plugin
-  "https://raw.githubusercontent.com/onodera-punpun/micro-fish-plugin/master/repo.json"
+  "https://raw.githubusercontent.com/onodera-punpun/micro-fish-plugin/master/repo.json",
 
   // Go plugin
-  "https://raw.githubusercontent.com/micro-editor/go-plugin/master/repo.json"
+  "https://raw.githubusercontent.com/micro-editor/go-plugin/master/repo.json",
 
   // Snippets plugin
-  "https://raw.githubusercontent.com/boombuler/microsnippets/master/repo.json",
+  "https://raw.githubusercontent.com/boombuler/microsnippets/master/repo.json"
 ]
