@@ -6,5 +6,8 @@
   "https://raw.githubusercontent.com/micro-editor/go-plugin/master/repo.json",
 
   // Snippets plugin
-  "https://raw.githubusercontent.com/boombuler/microsnippets/master/repo.json"
+  "https://raw.githubusercontent.com/boombuler/microsnippets/master/repo.json",
+  
+  // wc plugin
+  "https://raw.githubusercontent.com/adamnpeace/micro-wc-plugin/master/repo.json"
 ]
