@@ -7,4 +7,7 @@
 
   // Snippets plugin
   "https://raw.githubusercontent.com/boombuler/microsnippets/master/repo.json"
+  
+  // wc plugin
+  "https://raw.githubusercontent.com/adamnpeace/micro-wc-plugin/master/repo.json"
 ]
