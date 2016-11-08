@@ -1,4 +1,7 @@
 [
+  // Comment plugin
+  "https://raw.githubusercontent.com/micro-editor/comment-plugin/master/repo.json",
+
   // Fish plugin
   "https://raw.githubusercontent.com/onodera-punpun/micro-fish-plugin/master/repo.json",
 
