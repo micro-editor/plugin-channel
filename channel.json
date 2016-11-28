@@ -5,12 +5,15 @@
   // Fish plugin
   "https://raw.githubusercontent.com/onodera-punpun/micro-fish-plugin/master/repo.json",
 
+  // fzf plugin
+  "https://raw.githubusercontent.com/samdmarshall/micro-fzf-plugin/master/repo.json",
+
   // Go plugin
   "https://raw.githubusercontent.com/micro-editor/go-plugin/master/repo.json",
 
   // Snippets plugin
   "https://raw.githubusercontent.com/boombuler/microsnippets/master/repo.json",
-  
+
   // wc plugin
   "https://raw.githubusercontent.com/adamnpeace/micro-wc-plugin/master/repo.json"
 ]
