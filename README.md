@@ -11,6 +11,7 @@ This repository contains the 'channel.json' file which lists all official micro 
 | `go`        | Provides `gofmt` and `goimports` support for Go files | https://github.com/micro-editor/go-plugin           |
 | `fish`      | Provides `fishfmt` support for Fish files             | https://github.com/onodera-punpun/micro-fish-plugin |
 | `wc`        | Plugin to count words/characters                      | https://github.com/adamnpeace/micro-wc-plugin       |
+| `fzf`       | Provides `fzf` support for opening files              | https://github.com/samdmarshall/micro-fzf-plugin    |
 
 ## Adding your own plugin
 
