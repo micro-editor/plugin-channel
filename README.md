@@ -4,7 +4,6 @@ This repository contains the 'channel.json' file which lists all official micro 
 
 ## Plugins
 
-<<<<<<< HEAD
 | Plugin         | Description                                           | Link                                                |
 | -------------- | ----------------------------------------------------- | --------------------------------------------------- |
 | `comment`      | Plugin to auto comment or uncomment lines             | https://github.com/micro-editor/comment-plugin      |
