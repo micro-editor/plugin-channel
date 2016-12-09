@@ -12,6 +12,7 @@ This repository contains the 'channel.json' file which lists all official micro 
 | `fish`      | Provides `fishfmt` support for Fish files             | https://github.com/onodera-punpun/micro-fish-plugin |
 | `wc`        | Plugin to count words/characters                      | https://github.com/adamnpeace/micro-wc-plugin       |
 | `fzf`       | Provides `fzf` support for opening files              | https://github.com/samdmarshall/micro-fzf-plugin    |
+| `pony`      | Provides auto-indentation for Pony files              | https://github.com/Theodus/micro-pony-plugin        |
 
 ## Adding your own plugin
 
