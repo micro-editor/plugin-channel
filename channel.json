@@ -2,6 +2,9 @@
   // Comment plugin
   "https://raw.githubusercontent.com/micro-editor/comment-plugin/master/repo.json",
 
+  // EditorConfig plugin
+  "https://raw.githubusercontent.com/10sr/editorconfig-micro/master/repo.json",
+
   // Fish plugin
   "https://raw.githubusercontent.com/onodera-punpun/micro-fish-plugin/master/repo.json",
 
