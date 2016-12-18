@@ -14,6 +14,7 @@ This repository contains the 'channel.json' file which lists all official micro 
 | `fzf`          | Provides `fzf` support for opening files              | https://github.com/samdmarshall/micro-fzf-plugin    |
 | `pony`         | Provides auto-indentation for Pony files              | https://github.com/Theodus/micro-pony-plugin        |
 | `editorconfig` | EditorConfig Support for micro                        | https://github.com/10sr/editorconfig-micro          |
+| `crystal`      | Provides various `crystal` tools for crystal files    | https://github.com/ColinRioux/micro-crystal         |
 
 ## Adding your own plugin
 
