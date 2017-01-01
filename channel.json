@@ -19,10 +19,13 @@
 
   // wc plugin
   "https://raw.githubusercontent.com/adamnpeace/micro-wc-plugin/master/repo.json",
-  
+
   // Pony plugin
   "https://raw.githubusercontent.com/Theodus/micro-pony-plugin/master/repo.json",
 
   // Crystal plugin
   "https://raw.githubusercontent.com/ColinRioux/micro-crystal/master/repo.json"
+
+  // Misspell plugin
+  "https://raw.githubusercontent.com/onodera-punpun/micro-misspell-plugin/master/repo.json"
 ]
