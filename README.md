@@ -4,20 +4,20 @@ This repository contains the 'channel.json' file which lists all official micro 
 
 ## Plugins
 
-| Plugin          | Description                                             | Link                                                   |
-| --------------- | ------------------------------------------------------- | ------------------------------------------------------ |
-| `comment`       | Plugin to auto comment or uncomment lines               | https://github.com/micro-editor/comment-plugin         |
-| `snippets`      | Provides snippets functionality                         | https://github.com/boombuler/microsnippets             |
-| `go`            | Provides `gofmt` and `goimports` support for Go files   | https://github.com/micro-editor/go-plugin              |
-| `fish`          | Provides `fishfmt` support for Fish files               | https://github.com/onodera-punpun/micro-fish-plugin    |
-| `wc`            | Plugin to count words/characters                        | https://github.com/adamnpeace/micro-wc-plugin          |
-| `fzf`           | Provides `fzf` support for opening files                | https://github.com/samdmarshall/micro-fzf-plugin       |
-| `pony`          | Provides auto-indentation for Pony files                | https://github.com/Theodus/micro-pony-plugin           |
-| `editorconfig`  | EditorConfig Support for micro                          | https://github.com/10sr/editorconfig-micro             |
-| `crystal`       | Provides various `crystal` tools for crystal files      | https://github.com/ColinRioux/micro-crystal            |
-| `gotham-colors` | A colorscheme for code that never sleeps in Gotham City | https://github.com/november-eleven/micro-gotham-colors |
+| Plugin          | Description                                             | Link                                                    |
+| --------------- | ------------------------------------------------------- | ------------------------------------------------------- |
+| `comment`       | Plugin to auto comment or uncomment lines               | https://github.com/micro-editor/comment-plugin          |
+| `snippets`      | Provides snippets functionality                         | https://github.com/boombuler/microsnippets              |
+| `go`            | Provides `gofmt` and `goimports` support for Go files   | https://github.com/micro-editor/go-plugin               |
+| `fish`          | Provides `fishfmt` support for Fish files               | https://github.com/onodera-punpun/micro-fish-plugin     |
+| `wc`            | Plugin to count words/characters                        | https://github.com/adamnpeace/micro-wc-plugin           |
+| `fzf`           | Provides `fzf` support for opening files                | https://github.com/samdmarshall/micro-fzf-plugin        |
+| `pony`          | Provides auto-indentation for Pony files                | https://github.com/Theodus/micro-pony-plugin            |
+| `editorconfig`  | EditorConfig Support for micro                          | https://github.com/10sr/editorconfig-micro              |
+| `crystal`       | Provides various `crystal` tools for crystal files      | https://github.com/ColinRioux/micro-crystal             |
+| `gotham-colors` | A colorscheme for code that never sleeps in Gotham City | https://github.com/november-eleven/micro-gotham-colors  |
 | `misspell`      | Plugin that corrects commonly misspelled words          | https://github.com/onodera-punpun/micro-misspell-plugin |
-| `monokai-dark`  | A dark monokai colorscheme                              | https://github.com/Theodus/micro-monokai-dark          |
+| `monokai-dark`  | A dark monokai colorscheme                              | https://github.com/Theodus/micro-monokai-dark           |
 
 ## Adding your own plugin
 
