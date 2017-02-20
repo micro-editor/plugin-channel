@@ -33,5 +33,8 @@
   "https://raw.githubusercontent.com/novln/micro-gotham-colors/master/repo.json",
 
   // monokai-dark colorscheme
-  "https://raw.githubusercontent.com/Theodus/micro-monokai-dark/master/repo.json"
+  "https://raw.githubusercontent.com/Theodus/micro-monokai-dark/master/repo.json",
+  
+  // Manipulator plugin
+  "https://raw.githubusercontent.com/NicolaiSoeborg/manipulator-plugin/master/repo.json"
 ]
