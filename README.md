@@ -18,6 +18,7 @@ This repository contains the 'channel.json' file which lists all official micro 
 | `gotham-colors` | A colorscheme for code that never sleeps in Gotham City | https://github.com/novln/micro-gotham-colors            |
 | `misspell`      | Plugin that corrects commonly misspelled words          | https://github.com/onodera-punpun/micro-misspell-plugin |
 | `monokai-dark`  | A dark monokai colorscheme                              | https://github.com/Theodus/micro-monokai-dark           |
+| `manipulator`   | Extend text manipulation abilities                      | https://github.com/NicolaiSoeborg/manipulator-plugin    |
 
 ## Adding your own plugin
 
