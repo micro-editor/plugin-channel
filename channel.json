@@ -30,11 +30,15 @@
   "https://raw.githubusercontent.com/ColinRioux/micro-crystal/master/repo.json",
 
   // Gotham colorscheme
-  "https://raw.githubusercontent.com/november-eleven/micro-gotham-colors/master/repo.json",
+  "https://raw.githubusercontent.com/novln/micro-gotham-colors/master/repo.json",
 
   // monokai-dark colorscheme
   "https://raw.githubusercontent.com/Theodus/micro-monokai-dark/master/repo.json",
 
   // scratch file plugin
-  "https://raw.githubusercontent.com/samdmarshall/micro-scratch-plugin/master/repo.json"
+  "https://raw.githubusercontent.com/samdmarshall/micro-scratch-plugin/master/repo.json",
+  
+  // Manipulator plugin
+  "https://raw.githubusercontent.com/NicolaiSoeborg/manipulator-plugin/master/repo.json"
+
 ]
