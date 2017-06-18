@@ -34,6 +34,9 @@
 
   // monokai-dark colorscheme
   "https://raw.githubusercontent.com/Theodus/micro-monokai-dark/master/repo.json",
+
+  // scratch file plugin
+  "https://raw.githubusercontent.com/samdmarshall/micro-scratch-plugin/master/repo.json",
   
   // Manipulator plugin
   "https://raw.githubusercontent.com/NicolaiSoeborg/manipulator-plugin/master/repo.json",
