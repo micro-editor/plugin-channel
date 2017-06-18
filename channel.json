@@ -39,6 +39,8 @@
   "https://raw.githubusercontent.com/samdmarshall/micro-scratch-plugin/master/repo.json",
   
   // Manipulator plugin
-  "https://raw.githubusercontent.com/NicolaiSoeborg/manipulator-plugin/master/repo.json"
+  "https://raw.githubusercontent.com/NicolaiSoeborg/manipulator-plugin/master/repo.json",
 
+  // Filemanager plugin
+  "https://raw.githubusercontent.com/NicolaiSoeborg/filemanager-plugin/master/repo.json"
 ]

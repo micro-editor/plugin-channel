@@ -20,6 +20,7 @@ This repository contains the 'channel.json' file which lists all official micro 
 | `monokai-dark`  | A dark monokai colorscheme                              | https://github.com/Theodus/micro-monokai-dark           |
 | `scratch`       | Plugin to create scratch buffers                        | https://github.com/samdmarshall/micro-scratch-plugin    |
 | `manipulator`   | Extend text manipulation abilities                      | https://github.com/NicolaiSoeborg/manipulator-plugin    |
+| `filemanager`   | A file manager!                                         | https://github.com/NicolaiSoeborg/filemanager-plugin    |
 
 
 ## Adding your own plugin
