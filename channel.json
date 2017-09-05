@@ -37,10 +37,13 @@
 
   // scratch file plugin
   "https://raw.githubusercontent.com/samdmarshall/micro-scratch-plugin/master/repo.json",
-  
+
   // Manipulator plugin
   "https://raw.githubusercontent.com/NicolaiSoeborg/manipulator-plugin/master/repo.json",
-  
+
   // Rubocop plugin
-  "https://raw.githubusercontent.com/computerers/micro-rubocop/master/repo.json"
+  "https://raw.githubusercontent.com/computerers/micro-rubocop/master/repo.json",
+
+  // VCS plugin
+  "https://bitbucket.org/dermetfan/micro-vcs/raw/default/repo.json"
 ]
