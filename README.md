@@ -20,7 +20,8 @@ This repository contains the 'channel.json' file which lists all official micro 
 | `monokai-dark`  | A dark monokai colorscheme                              | https://github.com/Theodus/micro-monokai-dark           |
 | `scratch`       | Plugin to create scratch buffers                        | https://github.com/samdmarshall/micro-scratch-plugin    |
 | `manipulator`   | Extend text manipulation abilities                      | https://github.com/NicolaiSoeborg/manipulator-plugin    |
-| `rubocop`       | Rubocop autoformatting                                  | https://github.com/computerers/micro-rubocop    |
+| `rubocop`       | Rubocop autoformatting                                  | https://github.com/computerers/micro-rubocop            |
+| `vcs`           | Mark changed lines in Git or Mercurial repositories     | https://bitbucket.org/dermetfan/micro-vcs               |
 
 ## Adding your own plugin
 
