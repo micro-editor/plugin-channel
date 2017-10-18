@@ -45,5 +45,8 @@
   "https://raw.githubusercontent.com/computerers/micro-rubocop/master/repo.json",
 
   // VCS plugin
-  "https://bitbucket.org/dermetfan/micro-vcs/raw/default/repo.json"
+  "https://bitbucket.org/dermetfan/micro-vcs/raw/default/repo.json",
+
+  // CTags plugin
+  "https://github.com/codezapper/micro-ctags-plugin/blob/master/repo.json"
 ]
