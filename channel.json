@@ -41,6 +41,9 @@
   // Manipulator plugin
   "https://raw.githubusercontent.com/NicolaiSoeborg/manipulator-plugin/master/repo.json",
 
+  // Filemanager plugin
+  "https://raw.githubusercontent.com/NicolaiSoeborg/filemanager-plugin/master/repo.json",
+  
   // Rubocop plugin
   "https://raw.githubusercontent.com/computerers/micro-rubocop/master/repo.json",
 
