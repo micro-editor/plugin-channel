@@ -23,6 +23,7 @@ This repository contains the 'channel.json' file which lists all official micro 
 | `filemanager`   | A file manager!                                         | https://github.com/NicolaiSoeborg/filemanager-plugin    |
 | `rubocop`       | Rubocop autoformatting                                  | https://github.com/computerers/micro-rubocop            |
 | `vcs`           | Mark changed lines in Git or Mercurial repositories     | https://bitbucket.org/dermetfan/micro-vcs               |
+| `fmt`           | A multi-language formatting plugin                      | https://github.com/sum01/fmt-micro                      |
 
 ## Adding your own plugin
 
