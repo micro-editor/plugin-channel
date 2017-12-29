@@ -43,7 +43,7 @@
 
   // Filemanager plugin
   "https://raw.githubusercontent.com/NicolaiSoeborg/filemanager-plugin/master/repo.json",
-  
+
   // Rubocop plugin
   "https://raw.githubusercontent.com/computerers/micro-rubocop/master/repo.json",
 
@@ -51,5 +51,9 @@
   "https://bitbucket.org/dermetfan/micro-vcs/raw/default/repo.json",
 
   // fmt plugin
-  "https://github.com/sum01/fmt-micro/raw/master/repo.json"
+  "https://github.com/sum01/fmt-micro/raw/master/repo.json",
+
+  // cursors plugin
+  "https://github.com/lecheel/micro-cursors-plugin/master/repo.json"
+
 ]
