@@ -7,7 +7,7 @@ This repository contains the 'channel.json' file which lists all official micro 
 | Plugin          | Description                                             | Link                                                    |
 | --------------- | ------------------------------------------------------- | ------------------------------------------------------- |
 | `comment`       | Plugin to auto comment or uncomment lines               | https://github.com/micro-editor/comment-plugin          |
-| `snippets`      | Provides snippets functionality                         | https://github.com/boombuler/microsnippets              |
+| `snippets`      | Provides snippets functionality                         | https://github.com/tommyshem/micro-snippets-plugin             |
 | `go`            | Provides `gofmt` and `goimports` support for Go files   | https://github.com/micro-editor/go-plugin               |
 | `fish`          | Provides `fishfmt` support for Fish files               | https://github.com/onodera-punpun/micro-fish-plugin     |
 | `wc`            | Plugin to count words/characters                        | https://github.com/adamnpeace/micro-wc-plugin           |
