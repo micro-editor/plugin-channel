@@ -11,6 +11,9 @@
   // fzf plugin
   "https://raw.githubusercontent.com/samdmarshall/micro-fzf-plugin/master/repo.json",
 
+  // fzy plugin
+  "https://raw.githubusercontent.com/chrishalebarnes/micro-fzy-plugin/master/repo.json",
+
   // Go plugin
   "https://raw.githubusercontent.com/micro-editor/go-plugin/master/repo.json",
 
@@ -43,7 +46,7 @@
 
   // Filemanager plugin
   "https://raw.githubusercontent.com/NicolaiSoeborg/filemanager-plugin/master/repo.json",
-  
+
   // Rubocop plugin
   "https://raw.githubusercontent.com/computerers/micro-rubocop/master/repo.json",
 

@@ -12,6 +12,7 @@ This repository contains the 'channel.json' file which lists all official micro 
 | `fish`          | Provides `fishfmt` support for Fish files               | https://github.com/onodera-punpun/micro-fish-plugin     |
 | `wc`            | Plugin to count words/characters                        | https://github.com/adamnpeace/micro-wc-plugin           |
 | `fzf`           | Provides `fzf` support for opening files                | https://github.com/samdmarshall/micro-fzf-plugin        |
+| `fzy`           | Adds support for `fzy` fuzzy searching                  | https://github.com/chrishalebarnes/micro-fzy-plugin     |
 | `pony`          | Provides auto-indentation for Pony files                | https://github.com/Theodus/micro-pony-plugin            |
 | `editorconfig`  | EditorConfig Support for micro                          | https://github.com/10sr/editorconfig-micro              |
 | `crystal`       | Provides various `crystal` tools for crystal files      | https://github.com/ColinRioux/micro-crystal             |
