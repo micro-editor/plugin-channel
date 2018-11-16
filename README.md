@@ -21,6 +21,7 @@ This repository contains the 'channel.json' file which lists all official micro 
 | `scratch`       | Plugin to create scratch buffers                        | https://github.com/samdmarshall/micro-scratch-plugin    |
 | `manipulator`   | Extend text manipulation abilities                      | https://github.com/NicolaiSoeborg/manipulator-plugin    |
 | `filemanager`   | A file manager!                                         | https://github.com/NicolaiSoeborg/filemanager-plugin    |
+| `files`         | Simple file browser similar to that in mle(eon)         | https://github.com/rvi64/files-plugin                   |
 | `rubocop`       | Rubocop autoformatting                                  | https://github.com/computerers/micro-rubocop            |
 | `vcs`           | Mark changed lines in Git or Mercurial repositories     | https://bitbucket.org/dermetfan/micro-vcs               |
 | `fmt`           | A multi-language formatting plugin                      | https://github.com/sum01/fmt-micro                      |
