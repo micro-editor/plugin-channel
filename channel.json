@@ -47,6 +47,9 @@
   // file browser plugin
   "https://raw.githubusercontent.com/rvi64/files-plugin/master/repo.json",
 
+  // file grep plugin
+  "https://raw.githubusercontent.com/rvi64/fgrep-plugin/master/repo.json",
+
   // Rubocop plugin
   "https://raw.githubusercontent.com/computerers/micro-rubocop/master/repo.json",
 
