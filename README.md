@@ -16,6 +16,7 @@ This repository contains the 'channel.json' file which lists all official micro 
 | `editorconfig`  | EditorConfig Support for micro                          | https://github.com/10sr/editorconfig-micro              |
 | `crystal`       | Provides various `crystal` tools for crystal files      | https://github.com/ColinRioux/micro-crystal             |
 | `gotham-colors` | A colorscheme for code that never sleeps in Gotham City | https://github.com/novln/micro-gotham-colors            |
+| `sunny-day`     | Port of the Emacs theme by Martin Haesler               | https://github.com/dwwmmn/micro-sunny-day               |
 | `misspell`      | Plugin that corrects commonly misspelled words          | https://github.com/onodera-punpun/micro-misspell-plugin |
 | `monokai-dark`  | A dark monokai colorscheme                              | https://github.com/Theodus/micro-monokai-dark           |
 | `scratch`       | Plugin to create scratch buffers                        | https://github.com/samdmarshall/micro-scratch-plugin    |
