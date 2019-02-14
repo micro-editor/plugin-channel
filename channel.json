@@ -51,5 +51,8 @@
   "https://bitbucket.org/dermetfan/micro-vcs/raw/default/repo.json",
 
   // fmt plugin
-  "https://raw.githubusercontent.com/sum01/fmt-micro/master/repo.json"
+  "https://raw.githubusercontent.com/sum01/fmt-micro/master/repo.json",
+
+  // one-dark colorscheme
+  "https://raw.githubusercontent.com/joseluisq/micro-one-dark/master/repo.json"
 ]

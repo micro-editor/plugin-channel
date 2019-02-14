@@ -24,6 +24,7 @@ This repository contains the 'channel.json' file which lists all official micro 
 | `rubocop`       | Rubocop autoformatting                                  | https://github.com/computerers/micro-rubocop            |
 | `vcs`           | Mark changed lines in Git or Mercurial repositories     | https://bitbucket.org/dermetfan/micro-vcs               |
 | `fmt`           | A multi-language formatting plugin                      | https://github.com/sum01/fmt-micro                      |
+| `one-dark`      | One Dark colorcheme                                     | https://github.com/joseluisq/micro-one-dark             |
 
 ## Adding your own plugin
 
