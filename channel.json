@@ -43,9 +43,6 @@
 
   // Filemanager plugin
   "https://raw.githubusercontent.com/NicolaiSoeborg/filemanager-plugin/master/repo.json",
-  
-  // Rubocop plugin
-  "https://raw.githubusercontent.com/computerers/micro-rubocop/master/repo.json",
 
   // VCS plugin
   "https://bitbucket.org/dermetfan/micro-vcs/raw/default/repo.json",
