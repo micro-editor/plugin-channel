@@ -49,4 +49,7 @@
 
   // fmt plugin
   "https://raw.githubusercontent.com/sum01/fmt-micro/master/repo.json"
+
+  // mcompiler plugin
+  "https://raw.githubusercontent.com/Odyssey2247/mcompiler/master/repo.json"
 ]
