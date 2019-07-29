@@ -7,7 +7,7 @@ This repository contains the 'channel.json' file which lists all official micro 
 | Plugin          | Description                                             | Link                                                    |
 | --------------- | ------------------------------------------------------- | ------------------------------------------------------- |
 | `comment`       | Plugin to auto comment or uncomment lines               | https://github.com/micro-editor/comment-plugin          |
-| `snippets`      | Provides snippets functionality                         | https://github.com/tommyshem/micro-snippets-plugin             |
+| `snippets`      | Provides snippets functionality                         | https://github.com/tommyshem/micro-snippets-plugin      |
 | `go`            | Provides `gofmt` and `goimports` support for Go files   | https://github.com/micro-editor/go-plugin               |
 | `fish`          | Provides `fishfmt` support for Fish files               | https://github.com/onodera-punpun/micro-fish-plugin     |
 | `wc`            | Plugin to count words/characters                        | https://github.com/adamnpeace/micro-wc-plugin           |
@@ -23,6 +23,7 @@ This repository contains the 'channel.json' file which lists all official micro 
 | `filemanager`   | A file manager!                                         | https://github.com/NicolaiSoeborg/filemanager-plugin    |
 | `vcs`           | Mark changed lines in Git or Mercurial repositories     | https://bitbucket.org/dermetfan/micro-vcs               |
 | `fmt`           | A multi-language formatting plugin                      | https://github.com/sum01/fmt-micro                      |
+| `joinLines`     | Plugin which joins selected lines or the following with the current | https://github.com/Lisiadito/join-lines-plugin |
 
 ## Adding your own plugin
 
