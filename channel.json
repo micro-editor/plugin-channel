@@ -52,4 +52,7 @@
 
   // JoinLines plugin
   "https://raw.githubusercontent.com/Lisiadito/join-lines-plugin/master/repo.json"
+  
+  // JSDoc plugin
+  "https://github.com/raziel2244/micro-jsdoc/blob/master/repo.json"
 ]
