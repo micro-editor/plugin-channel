@@ -54,5 +54,8 @@
   "https://raw.githubusercontent.com/Lisiadito/join-lines-plugin/master/repo.json",
   
   // Bookmarks plugin
-  "https://github.com/davidalbertainley/micro-bookmarks-plugin/archive/1.0.1.zip"
+  "https://github.com/davidalbertainley/micro-bookmarks-plugin/archive/1.0.1.zip",
+  
+  // Goto plugin
+  "https://github.com/davidalbertainley/micro-goto-plugin/archive/1.0.0.zip"
 ]
