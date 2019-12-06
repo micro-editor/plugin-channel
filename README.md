@@ -24,7 +24,8 @@ This repository contains the 'channel.json' file which lists all official micro 
 | `vcs`           | Mark changed lines in Git or Mercurial repositories     | https://bitbucket.org/dermetfan/micro-vcs               |
 | `fmt`           | A multi-language formatting plugin                      | https://github.com/sum01/fmt-micro                      |
 | `joinLines`     | Plugin which joins selected lines or the following with the current | https://github.com/Lisiadito/join-lines-plugin |
-| `bookmarks`     | Add and remove bookmarks                                | https://github.com/davidalbertainley/micro-bookmarks-plugin |
+| `bookmarks`     | Add and remove bookmarks                                | https://github.com/davidalbertainley/micro-bookmarks-plugin|
+| `goto`          | Jump to line numbers                                    | https://github.com/davidalbertainley/micro-goto-plugin|
 
 ## Adding your own plugin
 
