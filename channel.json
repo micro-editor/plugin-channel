@@ -51,5 +51,8 @@
   "https://raw.githubusercontent.com/sum01/fmt-micro/master/repo.json",
 
   // JoinLines plugin
-  "https://raw.githubusercontent.com/Lisiadito/join-lines-plugin/master/repo.json"
+  "https://raw.githubusercontent.com/Lisiadito/join-lines-plugin/master/repo.json",
+
+  // autosave plugin
+  "https://raw.githubusercontent.com/pennie-quinn/micro-plugin-autosave/master/repo.json"
 ]
