@@ -35,6 +35,9 @@
   // monokai-dark colorscheme
   "https://raw.githubusercontent.com/Theodus/micro-monokai-dark/master/repo.json",
 
+  // sunny-day colorscheme
+  "https://raw.githubusercontent.com/dwwmmn/micro-sunny-day/master/repo.json",
+
   // scratch file plugin
   "https://raw.githubusercontent.com/samdmarshall/micro-scratch-plugin/master/repo.json",
 
