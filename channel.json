@@ -51,5 +51,8 @@
   "https://raw.githubusercontent.com/sum01/fmt-micro/master/repo.json",
 
   // JoinLines plugin
-  "https://raw.githubusercontent.com/Lisiadito/join-lines-plugin/master/repo.json"
+  "https://raw.githubusercontent.com/Lisiadito/join-lines-plugin/master/repo.json",
+  
+  // Exec plugin
+  "https://raw.githubusercontent.com/ibotdeu/exec-plugin/master/repo.json"
 ]
