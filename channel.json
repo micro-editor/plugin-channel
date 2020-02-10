@@ -3,31 +3,31 @@
   "https://raw.githubusercontent.com/micro-editor/comment-plugin/master/repo.json",
 
   // EditorConfig plugin
-  "https://raw.githubusercontent.com/10sr/editorconfig-micro/0d5d60520799ade785f120215a454f1117270ef3/repo.json",
+  "https://raw.githubusercontent.com/micro-editor/updated-plugins/master/editorconfig-micro/repo.json",
 
   // Fish plugin
-  "https://raw.githubusercontent.com/onodera-punpun/micro-fish-plugin/master/repo.json",
+  "https://raw.githubusercontent.com/micro-editor/updated-plugins/master/micro-fish-plugin/repo.json",
 
   // fzf plugin
-  "https://raw.githubusercontent.com/samdmarshall/micro-fzf-plugin/master/repo.json",
+  "https://raw.githubusercontent.com/micro-editor/updated-plugins/master/fzf/repo.json",
 
   // Go plugin
   "https://raw.githubusercontent.com/micro-editor/go-plugin/master/repo.json",
 
   // Snippets plugin
-   "https://raw.githubusercontent.com/tommyshem/micro-snippets-plugin/master/repo.json",
+   "https://raw.githubusercontent.com/micro-editor/updated-plugins/master/micro-snippets-plugin/repo.json",
 
   // wc plugin
-  "https://raw.githubusercontent.com/adamnpeace/micro-wc-plugin/master/repo.json",
+  "https://raw.githubusercontent.com/micro-editor/updated-plugins/master/micro-wc-plugin/repo.json",
 
   // Pony plugin
-  "https://raw.githubusercontent.com/Theodus/micro-pony-plugin/master/repo.json",
+  "https://raw.githubusercontent.com/micro-editor/updated-plugins/master/micro-pony-plugin/repo.json",
 
   // Misspell plugin
-  "https://raw.githubusercontent.com/onodera-punpun/micro-misspell-plugin/master/repo.json",
+  "https://raw.githubusercontent.com/micro-editor/updated-plugins/master/micro-misspell-plugin/repo.json",
 
   // Crystal plugin
-  "https://raw.githubusercontent.com/ColinRioux/micro-crystal/master/repo.json",
+  "https://raw.githubusercontent.com/micro-editor/updated-plugins/master/micro-crystal/repo.json",
 
   // Gotham colorscheme
   "https://raw.githubusercontent.com/novln/micro-gotham-colors/master/repo.json",
@@ -39,17 +39,14 @@
   "https://raw.githubusercontent.com/samdmarshall/micro-scratch-plugin/master/repo.json",
 
   // Manipulator plugin
-  "https://raw.githubusercontent.com/NicolaiSoeborg/manipulator-plugin/master/repo.json",
+  "https://raw.githubusercontent.com/micro-editor/updated-plugins/master/manipulator-plugin/repo.json",
 
   // Filemanager plugin
-  "https://raw.githubusercontent.com/NicolaiSoeborg/filemanager-plugin/master/repo.json",
-
-  // VCS plugin
-  "https://bitbucket.org/dermetfan/micro-vcs/raw/default/repo.json",
+  "https://raw.githubusercontent.com/micro-editor/updated-plugins/master/filemanager-plugin/repo.json",
 
   // fmt plugin
   "https://raw.githubusercontent.com/sum01/fmt-micro/master/repo.json",
 
   // JoinLines plugin
-  "https://raw.githubusercontent.com/Lisiadito/join-lines-plugin/master/repo.json"
+  "https://raw.githubusercontent.com/micro-editor/updated-plugins/master/join-lines-plugin/repo.json"
 ]
