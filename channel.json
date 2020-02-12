@@ -3,7 +3,7 @@
   "https://raw.githubusercontent.com/micro-editor/comment-plugin/master/repo.json",
 
   // EditorConfig plugin
-  "https://raw.githubusercontent.com/micro-editor/updated-plugins/master/editorconfig-micro/repo.json",
+  "https://raw.githubusercontent.com/10sr/editorconfig-micro/master/repo.json",
 
   // Fish plugin
   "https://raw.githubusercontent.com/micro-editor/updated-plugins/master/micro-fish-plugin/repo.json",
