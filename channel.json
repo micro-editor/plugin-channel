@@ -48,5 +48,8 @@
   "https://raw.githubusercontent.com/sum01/fmt-micro/master/repo.json",
 
   // JoinLines plugin
-  "https://raw.githubusercontent.com/micro-editor/updated-plugins/master/join-lines-plugin/repo.json"
+  "https://raw.githubusercontent.com/micro-editor/updated-plugins/master/join-lines-plugin/repo.json",
+  
+  // Quoter plugin
+  "https://raw.githubusercontent.com/deusnefum/micro-quoter/v1.0.0/repo.json"
 ]
