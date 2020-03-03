@@ -51,8 +51,8 @@
   "https://raw.githubusercontent.com/micro-editor/updated-plugins/master/join-lines-plugin/repo.json",
   
   // Quoter plugin
-  "https://raw.githubusercontent.com/deusnefum/micro-quoter/v1.0.0/repo.json",
+  "https://raw.githubusercontent.com/deusnefum/micro-quoter/master/repo.json",
   
   // Bounce plugin
-  "https://raw.githubusercontent.com/deusnefum/micro-bounce/v1.0.0/repo.json"
+  "https://raw.githubusercontent.com/deusnefum/micro-bounce/master/repo.json"
 ]
