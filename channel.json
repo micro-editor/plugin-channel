@@ -54,5 +54,8 @@
   "https://raw.githubusercontent.com/deusnefum/micro-quoter/master/repo.json",
   
   // Bounce plugin
-  "https://raw.githubusercontent.com/deusnefum/micro-bounce/master/repo.json"
+  "https://raw.githubusercontent.com/deusnefum/micro-bounce/master/repo.json",
+
+  // zigfmt plugin
+  "https://raw.githubusercontent.com/squeek502/micro-zigfmt/master/repo.json"
 ]
