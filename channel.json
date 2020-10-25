@@ -60,5 +60,8 @@
   "https://raw.githubusercontent.com/squeek502/micro-zigfmt/master/repo.json",
   
   // Aspell plugin
-  "https://raw.githubusercontent.com/priner/micro-aspell-plugin/master/repo.json"
+  "https://raw.githubusercontent.com/priner/micro-aspell-plugin/master/repo.json",
+  
+  // jlabbrev plugin
+  "https://raw.githubusercontent.com/MasFlam/jlabbrev/master/repo.json"
 ]
