@@ -63,7 +63,7 @@
   "https://raw.githubusercontent.com/priner/micro-aspell-plugin/master/repo.json",
   
   // jlabbrev plugin
-  "https://raw.githubusercontent.com/MasFlam/jlabbrev/master/repo.json"
+  "https://raw.githubusercontent.com/MasFlam/jlabbrev/master/repo.json",
 
   // wakatime plugin
   "https://raw.githubusercontent.com/wakatime/micro-wakatime/master/repo.json"
