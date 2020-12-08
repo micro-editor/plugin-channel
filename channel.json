@@ -66,5 +66,8 @@
   "https://raw.githubusercontent.com/MasFlam/jlabbrev/master/repo.json",
 
   // wakatime plugin
-  "https://raw.githubusercontent.com/wakatime/micro-wakatime/master/repo.json"
+  "https://raw.githubusercontent.com/wakatime/micro-wakatime/master/repo.json",
+  
+  // nord-tc colorscheme
+  "https://raw.githubusercontent.com/KiranWells/micro-nord-tc-colors/main/repo.json"
 ]
