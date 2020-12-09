@@ -28,7 +28,7 @@ This repository contains the 'channel.json' file which lists all official micro 
 | `quoter`     | Plugin that allows you to add quotes or brackets around selected text | https://github.com/deusnefum/micro-quoter | :heavy_check_mark:                       |
 | `zigfmt`        | Provides `zig fmt` integration for Zig files            | https://github.com/squeek502/micro-zigfmt                  | :heavy_check_mark:                       |
 | `jlabbrev`      | Provides backslash abbreviations from the julia prompt  | https://github.com/MasFlam/jlabbrev                        | :heavy_check_mark:                       |
-| `nord-tc`      | A dark colorscheme based on Nord  | https://github.com/KiranWells/micro-nord-tc-colors                        | :heavy_check_mark:                       |
+| `nord-colors`   | A set of dark and light colorschemes based on Nord      | https://github.com/KiranWells/micro-nord-tc-colors         | :heavy_check_mark:                       |
 
 ## Adding your own plugin
 
