@@ -68,6 +68,6 @@
   // wakatime plugin
   "https://raw.githubusercontent.com/wakatime/micro-wakatime/master/repo.json",
   
-  // nord-tc colorscheme
+  // nord colorschemes
   "https://raw.githubusercontent.com/KiranWells/micro-nord-tc-colors/main/repo.json"
 ]
