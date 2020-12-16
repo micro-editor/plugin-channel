@@ -69,7 +69,7 @@
   "https://raw.githubusercontent.com/wakatime/micro-wakatime/master/repo.json",
   
   // nord colorschemes
-  "https://raw.githubusercontent.com/KiranWells/micro-nord-tc-colors/main/repo.json"
+  "https://raw.githubusercontent.com/KiranWells/micro-nord-tc-colors/main/repo.json",
 
   // yapf plugin
   "https://raw.githubusercontent.com/a11ce/micro-yapf/master/repo.json"
