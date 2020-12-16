@@ -31,6 +31,7 @@ This repository contains the 'channel.json' file which lists all official micro 
 | `nord-colors`   | A set of dark and light colorschemes based on Nord      | https://github.com/KiranWells/micro-nord-tc-colors         | :heavy_check_mark:                       |
 | `yapf`          | Runs `yapf` in place when saving python files           | https://github.com/a11ce/micro-yapf                        | :heavy_check_mark:                       |
 
+
 ## Adding your own plugin
 
 To add your own plugin, create a `repo.json` file containing all the metadata information for your plugin. See the Go plugin [repo.json](https://github.com/micro-editor/go-plugin/blob/master/repo.json) file as an example.
