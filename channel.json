@@ -73,4 +73,7 @@
 
   // yapf plugin
   "https://raw.githubusercontent.com/a11ce/micro-yapf/master/repo.json"
+
+  // bookmark plugin
+  "https://raw.githubusercontent.com/haqk/micro-bookmark/main/repo.json"
 ]
