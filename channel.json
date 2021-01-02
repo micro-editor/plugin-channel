@@ -72,5 +72,8 @@
   "https://raw.githubusercontent.com/KiranWells/micro-nord-tc-colors/main/repo.json",
 
   // yapf plugin
-  "https://raw.githubusercontent.com/a11ce/micro-yapf/master/repo.json"
+  "https://raw.githubusercontent.com/a11ce/micro-yapf/master/repo.json",
+
+  // quickfix plugin
+  "https://raw.githubusercontent.com/serge-v/micro-quickfix/main/repo.json"
 ]
