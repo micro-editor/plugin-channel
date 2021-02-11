@@ -81,5 +81,5 @@
   "https://raw.githubusercontent.com/serge-v/micro-quickfix/main/repo.json",
 
   // jump plugin
-  "https://github.com/terokarvinen/micro-jump/blob/main/repo.json"
+  "https://raw.githubusercontent.com/terokarvinen/micro-jump/main/repo.json"
 ]
