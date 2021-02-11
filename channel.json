@@ -78,5 +78,8 @@
   "https://raw.githubusercontent.com/haqk/micro-bookmark/main/repo.json",
 
   // quickfix plugin
-  "https://raw.githubusercontent.com/serge-v/micro-quickfix/main/repo.json"
+  "https://raw.githubusercontent.com/serge-v/micro-quickfix/main/repo.json",
+
+  // jump plugin
+  "https://github.com/terokarvinen/micro-jump/blob/main/repo.json"
 ]
