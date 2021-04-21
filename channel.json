@@ -82,4 +82,7 @@
 
   // jump plugin
   "https://raw.githubusercontent.com/terokarvinen/micro-jump/main/repo.json"
+
+  // detectindent plugin
+  "https://raw.githubusercontent.com/dmaluka/micro-detectindent/master/repo.json"
 ]
