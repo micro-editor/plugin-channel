@@ -80,6 +80,9 @@
   // quickfix plugin
   "https://raw.githubusercontent.com/serge-v/micro-quickfix/main/repo.json",
 
+  // jump plugin
+  "https://raw.githubusercontent.com/terokarvinen/micro-jump/main/repo.json"
+
   // detectindent plugin
   "https://raw.githubusercontent.com/dmaluka/micro-detectindent/master/repo.json"
 ]
