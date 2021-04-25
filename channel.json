@@ -45,7 +45,10 @@
   "https://raw.githubusercontent.com/micro-editor/updated-plugins/master/filemanager-plugin/repo.json",
 
   // fmt plugin
-  "https://raw.githubusercontent.com/sum01/fmt-micro/master/repo.json",
+  "https://raw.githubusercontent.com/sum01/fmt-micro/master/repo.json"
+
+  // mcompiler plugin
+  "https://raw.githubusercontent.com/Odyssey2247/mcompiler/master/repo.json"
 
   // JoinLines plugin
   "https://raw.githubusercontent.com/Lisiadito/join-lines-plugin/master/repo.json",
