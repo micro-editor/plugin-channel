@@ -87,5 +87,5 @@
   "https://raw.githubusercontent.com/dmaluka/micro-detectindent/master/repo.json",
   
   // typescript linter
-  "https://raw.githubusercontent.com/sebastianks/micro-linter-typescript/master/repo.json"
+  "https://raw.githubusercontent.com/sebkolind/micro-linter-typescript/master/repo.json"
 ]
