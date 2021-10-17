@@ -85,4 +85,7 @@
 
   // detectindent plugin
   "https://raw.githubusercontent.com/dmaluka/micro-detectindent/master/repo.json"
+  
+  //splitterm plugin
+  "https://raw.githubusercontent.com/lukhof/splitterm/main/repo.json"
 ]
