@@ -1,0 +1,9 @@
+{
+	"tags": ["micro-editor-plugin"],
+	"ignoreList": "./ignorelist.json",
+	"pluginList": "./plugins.json",
+	"pluginReadme": "./plugins.md",
+	"pluginChannel": "./channel.json",
+	"metadataFile": "repo.json",
+	"pluginReadmeHeader": "# <div align=\"center\"> Micro Plugins </div>\n\n| Name | Description | Website | Tags | Latest Version | Dependencies |\n| ---- | ----------- | ------- | ---- | -------------- | ------------ |\n"
+}
