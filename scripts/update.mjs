@@ -88,7 +88,11 @@ for (let repo of results.items) {
 		)
 	) {
 		log.error(
-			'Invalid plugin metadata; please see https://raw.githubusercontent.com/gamemaker1/micro-plugin-prettier/main/repo.json for an example of a valid metadata file'
+			'This plugin',
+			pluginMetadata.Name ?? '<unparseable>',
+			'from the repo',
+			repo.name,
+			'has an invalid metadata file (repo.json)'
 		)
 
 		continue
@@ -104,7 +108,7 @@ for (let repo of results.items) {
 				downloadUrl: version.Url,
 				dependencies: version.Require,
 			}
-		}).sort((a, b) => (a.version > b.version ? 1 : -1)),
+		}).sort((a, b) => (a.version > b.version ? 1 : -1)), // Latest version first
 		metadataUrl: pluginMetadataUrl,
 	}
 
@@ -115,7 +119,11 @@ for (let repo of results.items) {
 				pluginMetadata.name === nameOrRepo || repo.name === nameOrRepo
 		)
 	) {
-		log.error('This plugin was found in the ignoreList')
+		log.error(
+			'This plugin',
+			pluginMetadata.name,
+			'was found in the ignore list, skipping'
+		)
 
 		continue
 	}
@@ -133,6 +141,8 @@ for (let repo of results.items) {
 	}) | ${Object.entries(pluginMetadata.versions[0].dependencies)
 		.map(([dependency, version]) => `\`${dependency}\` (\`${version}\`)`)
 		.join(', ')} |\n`
+
+	log.info('Added plugin', pluginMetadata.name)
 }
 
 // Save the plugin list, the generated markdown table and the channel

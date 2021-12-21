@@ -14,15 +14,31 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Clone the repo
-      - name: Clone repository
+      - id: checkout_repo
+        name: Clone repository
         uses: actions/checkout@v2
       # Run the update script
-      - name: Update plugin list
-        run: node scripts/update.mjs
+      - id: update_plugin
+        name: Update plugin list
+        run: |
+          echo 'chore: update plugin list\n' > commit-message.tmp
+
+          node scripts/update.mjs | tee update-logs.tmp
+          cat update-logs.tmp | grep '\[info\] Added plugin' | sed 's/\[info\] Added plugin/-/g' > added-plugins.tmp
+          cat update-logs.tmp | grep '\[error\] .* ignore list' | sed 's/\[error\] This plugin/-/g' | sed 's/ was found in the ignore list, skipping//g' > ignored-plugins.tmp
+
+          if ! [[ -z "`cat added-plugins.tmp`" ]]; then
+            echo '\nThe following plugins are now a part of the channel:' >> commit-message.tmp
+            cat added-plugins.tmp >> commit-message.tmp
+          fi
+          if ! [[ -z "`cat ignored-plugins.tmp`" ]]; then
+            echo '\nThe following plugins were found, but not added as they were a part of the ignore list:' >> commit-message.tmp
+            cat ignored-plugins.tmp >> commit-message.tmp
+          fi
       # Save the changes
       - name: Commit and push changes
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
-          git commit -am 'chore: update plugin list'
+          git commit -aF commit-message.tmp
           git push
