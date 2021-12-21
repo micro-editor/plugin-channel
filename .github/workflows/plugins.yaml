@@ -13,10 +13,13 @@ jobs:
     name: Update
     runs-on: ubuntu-latest
     steps:
+      # Clone the repo
       - name: Clone repository
         uses: actions/checkout@v2
+      # Run the update script
       - name: Update plugin list
         run: node scripts/update.mjs
+      # Save the changes
       - name: Commit and push changes
         run: |
           git config user.name 'github-actions[bot]'
