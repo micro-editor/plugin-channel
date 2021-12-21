@@ -43,7 +43,6 @@ results.items = results.items
 const ignoreList = await read(config.ignoreList)
 
 // Loop through the repositories and add the plugins to the list
-const pluginList = []
 const pluginChannel = []
 let pluginReadme = config.pluginReadmeHeader
 for (let repo of results.items) {
@@ -122,7 +121,6 @@ for (let repo of results.items) {
 	}
 
 	// Add the plugin to the list
-	pluginList.push(pluginMetadata)
 	pluginChannel.push(pluginMetadata.metadataUrl)
 
 	// Add the plugin's information to the markdown table
@@ -140,7 +138,6 @@ for (let repo of results.items) {
 // Save the plugin list, the generated markdown table and the channel
 await Promise.all([
 	write(config.pluginChannel, pluginChannel),
-	write(config.pluginList, pluginList),
 	write(config.pluginReadme, pluginReadme),
 ])
 

@@ -1,7 +1,6 @@
 {
 	"tags": ["micro-editor-plugin"],
 	"ignoreList": "./ignorelist.json",
-	"pluginList": "./plugins.json",
 	"pluginReadme": "./plugins.md",
 	"pluginChannel": "./channel.json",
 	"metadataFile": "repo.json",
