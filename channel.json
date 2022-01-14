@@ -84,5 +84,8 @@
   "https://raw.githubusercontent.com/terokarvinen/micro-jump/main/repo.json",
 
   // detectindent plugin
-  "https://raw.githubusercontent.com/dmaluka/micro-detectindent/master/repo.json"
+  "https://raw.githubusercontent.com/dmaluka/micro-detectindent/master/repo.json",
+
+  // findinfolder plugin
+  "https://gitlab.com/taconi/micro-findinfolder/-/raw/main/repo.json"
 ]
