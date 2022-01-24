@@ -84,5 +84,8 @@
   "https://raw.githubusercontent.com/terokarvinen/micro-jump/main/repo.json",
 
   // detectindent plugin
-  "https://raw.githubusercontent.com/dmaluka/micro-detectindent/master/repo.json"
+  "https://raw.githubusercontent.com/dmaluka/micro-detectindent/master/repo.json",
+
+  // language-env plugin
+  "https://gitlab.com/taconi/micro-language-env/-/raw/main/repo.json"
 ]
