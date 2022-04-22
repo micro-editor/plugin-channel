@@ -30,7 +30,7 @@ This repository contains the 'channel.json' file which lists all official micro 
 | `jlabbrev`      | Provides backslash abbreviations from the julia prompt  | https://github.com/MasFlam/jlabbrev                        | :heavy_check_mark:                       |
 | `nord-colors`   | A set of dark and light colorschemes based on Nord      | https://github.com/KiranWells/micro-nord-tc-colors         | :heavy_check_mark:                       |
 | `yapf`          | Runs `yapf` in place when saving python files           | https://github.com/a11ce/micro-yapf                        | :heavy_check_mark:                       |
-| `bookmark`      | Bookmark lines and quickly jump between saved positions | https://github.com/haqk/micro-bookmark                     | :heavy_check_mark:                       |
+| `bookmark`      | Bookmark lines to quickly jump between saved positions  | https://github.com/haqk/micro-bookmark                     | :heavy_check_mark:                       |
 | `quickfix`      | Adds a functionality similar to VIM quickfix pane       | https://github.com/serge-v/micro-quickfix                  | :heavy_check_mark:                       |
 | `jump`      | Jump to any function, class or heading with F4. Go, Markdown, Python, C and in 40 other languages | https://github.com/terokarvinen/micro-jump   | :heavy_check_mark:      |
 | `detectindent`  | Automatically detect indentation settings               | https://github.com/dmaluka/micro-detectindent              | :heavy_check_mark:                       |
