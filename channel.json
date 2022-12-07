@@ -88,4 +88,7 @@
 
   // lsp plugin
   "https://raw.githubusercontent.com/andcake/micro-plugin-lsp/master/repo.json"
+  
+  //tnsl plugin
+  "https://raw.githubusercontent.com/CircleShift/tnsl-micro-plugin/master/repo.json"
 ]
