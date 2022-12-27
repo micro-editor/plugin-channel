@@ -27,7 +27,7 @@
   "https://raw.githubusercontent.com/micro-editor/updated-plugins/master/micro-crystal/repo.json",
 
   // Gotham colorscheme
-  "https://raw.githubusercontent.com/nmicro-editor/plugin-channel/master/plugins/micro-gotham-colors.json",
+  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-gotham-colors.json",
 
   // monokai-dark colorscheme
   "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-monokai-dark.json",
@@ -63,7 +63,7 @@
   "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-nord-tc-colors.json",
 
   // yapf plugin
-  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-yapf.json",
+  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-autofmt.json",
 
   // bookmark plugin
   "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-bookmark.json",
