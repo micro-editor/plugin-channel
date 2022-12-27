@@ -3,6 +3,7 @@
   "Description": "Go language support (gofmt and goimports)",
   "Tags": ["go", "golang"],
   "Website": "https://github.com/micro-editor/go-plugin",
+  "License": "MIT",
   "Versions": [
     {
       "Version": "2.0.2",
