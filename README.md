@@ -52,6 +52,8 @@ Then you can open a pull request which adds the link to that file to the
 files in your PR. If you PR is accepted, I will upload those zip files to
 the `plugins` release so they will be accessible to all micro users.
 
+Please make sure to add a License to your plugin.
+
 ## Updating your plugin
 
 If you come out with a new version of your plugin, please open a PR modifying
