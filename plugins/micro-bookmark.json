@@ -1,0 +1,16 @@
+[{
+  "Name": "bookmark",
+  "Description": "Bookmark lines to quickly jump between saved positions",
+  "Tags": ["bookmark"],
+  "Website": "https://github.com/haqk/micro-bookmark",
+  "Versions": [
+    {
+      "Version": "2.2.3",
+      "Url": "https://github.com/micro-editor/plugin-channel/releases/download/plugins/micro-bookmark-2.2.1.zip",
+      "Require": {
+        "micro": ">=2.0.0"
+      }
+    }
+  ]
+}]
+

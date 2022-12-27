@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "quoter",
+    "Description": "plugin to add quotes or brackets around a text selection.",
+    "Tags": [
+      "quote", "autosurround"
+    ],
+    "Versions": [
+      
+      {
+        "Version": "1.0.2",
+        "Url": "https://github.com/micro-editor/plugin-channel/releases/download/plugins/micro-quoter-1.0.2.zip",
+        "Require": {
+          "micro": ">=2.0.0"
+        }
+      }
+    ]
+  }
+]

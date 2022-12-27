@@ -1,0 +1,14 @@
+[{
+  "Name": "joinLines",
+  "Description": "Plugin to join selected lines or join the following line with the current one",
+  "Tags": ["join lines"],
+  "Versions": [
+    {
+      "Version": "1.1.6",
+      "Url": "https://github.com/micro-editor/plugin-channel/releases/download/plugins/join-lines-plugin-1.1.6.zip",
+      "Require": {
+        "micro": ">=2.0.4"
+      }
+    }
+  ]
+}]

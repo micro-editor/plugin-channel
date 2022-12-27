@@ -1,0 +1,14 @@
+[{
+  "Name": "bounce",
+  "Description": "plugin to add nano-style 'smart home' and bounce cursor between matching brackets",
+  "Tags": ["bounce", "smarthome"],
+  "Versions": [
+    {
+      "Version": "1.1.2",
+      "Url": "https://github.com/micro-editor/plugin-channel/releases/download/plugins/micro-bounce-1.1.2.zip",
+      "Require": {
+        "micro": ">=2.0.0"
+      }
+    }
+  ]
+}]

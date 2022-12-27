@@ -1,0 +1,15 @@
+[{
+  "Name": "nordcolors",
+  "Description": "A color palette based on the Nord colorscheme",
+  "Tags": ["nord", "color", "truecolor", "16"],
+  "Website": "https://github.com/KiranWells/micro-nord-tc-colors/",
+  "Versions": [
+    {
+      "Version": "1.1.4",
+      "Url": "https://github.com/micro-editor/plugin-channel/releases/download/plugins/micro-nord-tc-colors-1.1.4.zip",
+      "Require": {
+        "micro": ">=1.1.3"
+      }
+    }
+  ]
+}]

@@ -1,0 +1,14 @@
+[{
+  "Name": "monokai-dark",
+  "Description": "A dark monokai colorscheme for micro",
+  "Tags": ["colorscheme"],
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "Url": "https://github.com/micro-editor/plugin-channel/releases/download/plugins/micro-monokai-dark-0.1.0.zip",
+      "Require": {
+        "micro": ">=1.1.3"
+      }
+    }
+  ]
+}]

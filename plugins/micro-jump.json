@@ -1,0 +1,15 @@
+[{
+  "Name": "jump",
+  "Description": "Jump to any function, class or heading with F4. Go, Markdown, Python, C...",
+  "Website": "https://github.com/terokarvinen/micro-jump",
+  "Tags": ["ctags", "fzf", "symbols", "code browser", "jump"],
+  "Versions": [
+    {
+      "Version": "0.0.5",
+      "Url": "https://github.com/micro-editor/plugin-channel/releases/download/plugins/micro-jump-0.0.4.zip",
+      "Require": { 
+        "micro": ">=2.0.0"
+      }
+    }
+  ]
+}]
