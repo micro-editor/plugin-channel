@@ -1,7 +1,4 @@
 [
-  // Comment plugin
-  "https://raw.githubusercontent.com/micro-editor/comment-plugin/master/repo.json",
-
   // EditorConfig plugin
   "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/editorconfig-micro.json",
 
