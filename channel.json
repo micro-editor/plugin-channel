@@ -12,7 +12,7 @@
   "https://raw.githubusercontent.com/micro-editor/updated-plugins/master/fzf/repo.json",
 
   // Go plugin
-  "https://raw.githubusercontent.com/micro-editor/go-plugin/master/repo.json",
+  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/go.json",
 
   // Snippets plugin
    "https://raw.githubusercontent.com/micro-editor/updated-plugins/master/micro-snippets-plugin/repo.json",
