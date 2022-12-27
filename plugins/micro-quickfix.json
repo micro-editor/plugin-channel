@@ -3,6 +3,7 @@
   "Description": "Plugin to speedup the edit-make-edit development cycle.",
   "Tags": ["quickfix"],
   "Website": "https://github.com/serge-v/micro-quickfix",
+  "License": "MIT",
   "Versions": [
     {
       "Version": "2.1.2",

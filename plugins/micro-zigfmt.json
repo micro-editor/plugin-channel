@@ -3,6 +3,7 @@
   "Description": "zig fmt on save and zig fmt --check linter support",
   "Tags": ["zig", "ziglang"],
   "Website": "https://github.com/squeek502/micro-zigfmt",
+  "License": "Unlicense",
   "Versions": [
     {
       "Version": "0.1.1",

@@ -3,6 +3,7 @@
   "Description": "A color palette based on the Nord colorscheme",
   "Tags": ["nord", "color", "truecolor", "16"],
   "Website": "https://github.com/KiranWells/micro-nord-tc-colors/",
+  "License": "MIT",
   "Versions": [
     {
       "Version": "1.1.4",

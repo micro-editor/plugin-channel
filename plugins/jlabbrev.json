@@ -3,6 +3,7 @@
 	"Description": "Julia backslash abbreviations in micro",
 	"Website": "https://github.com/MasFlam/jlabbrev",
 	"Tags": ["julia", "util"],
+    "License": "MIT",
 	"Versions": [{
 		"Version": "1.0.1",
 		"Url": "https://github.com/micro-editor/plugin-channel/releases/download/plugins/jlabbrev-1.0.1.zip",

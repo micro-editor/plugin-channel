@@ -2,6 +2,7 @@
   "Name": "bounce",
   "Description": "plugin to add nano-style 'smart home' and bounce cursor between matching brackets",
   "Tags": ["bounce", "smarthome"],
+  "Website": "https://github.com/deusnefum/micro-bounce",
   "Versions": [
     {
       "Version": "1.1.2",

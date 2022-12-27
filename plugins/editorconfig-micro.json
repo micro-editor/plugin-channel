@@ -3,6 +3,7 @@
   "Description": "EditorConfig plugin for micro",
   "Tags": ["editorconfig", "utility", "format"],
   "Website": "https://github.com/10sr/editorconfig-micro",
+  "License": "MIT",
   "Versions": [
     {
       "Version": "1.0.0",

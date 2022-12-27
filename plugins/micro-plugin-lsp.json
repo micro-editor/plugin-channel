@@ -3,6 +3,7 @@
   "Description": "Generic LSP Client for Micro",
   "Website": "https://github.com/AndCake/micro-plugin-lsp",
   "Tags": ["lsp"],
+  "License": "MIT",
   "Versions": [
     {
       "Version": "0.4.1",

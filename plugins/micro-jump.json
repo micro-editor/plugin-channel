@@ -3,6 +3,7 @@
   "Description": "Jump to any function, class or heading with F4. Go, Markdown, Python, C...",
   "Website": "https://github.com/terokarvinen/micro-jump",
   "Tags": ["ctags", "fzf", "symbols", "code browser", "jump"],
+  "License": "MIT",
   "Versions": [
     {
       "Version": "0.0.5",

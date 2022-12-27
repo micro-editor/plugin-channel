@@ -3,6 +3,7 @@
   "Description": "Spellchecking with Aspell",
   "Tags": ["spellchecking", "spelling", "aspell", "spellchecker"],
   "Website": "https://github.com/priner/micro-aspell-plugin",
+  "License": "MIT",
   "Versions": [
     {
       "Version": "1.3.0",

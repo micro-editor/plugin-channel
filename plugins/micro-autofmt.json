@@ -2,6 +2,7 @@
   "Name": "autofmt",
   "Description": "plugin to run formatters on save",
   "Tags": ["formatter"],
+  "Website": "https://github.com/a11ce/micro-autofmt",
   "Versions": [
     {
       "Version": "1.0.0",
