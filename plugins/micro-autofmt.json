@@ -1,0 +1,15 @@
+[{
+  "Name": "autofmt",
+  "Description": "plugin to run formatters on save",
+  "Tags": ["formatter"],
+  "Website": "https://github.com/a11ce/micro-autofmt",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "Url": "https://github.com/micro-editor/plugin-channel/releases/download/plugins/micro-autofmt-1.0.0.zip",
+      "Require": {
+        "micro": ">=2.0.8"
+      }
+    }
+  ]
+}]

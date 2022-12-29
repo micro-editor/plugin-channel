@@ -1,0 +1,25 @@
+[
+    {
+        "Name": "gotham-colors",
+        "Description": "A very dark colorscheme",
+        "Tags": [
+            "gotham",
+            "colors",
+            "color",
+            "themes",
+            "theme",
+            "colorschemes",
+            "colorscheme",
+            "dark"
+        ],
+        "Versions": [
+            {
+                "Version": "1.1.0",
+                "Url": "https://github.com/micro-editor/plugin-channel/releases/download/plugins/micro-gotham-colors-1.1.0.zip",
+                "Require": {
+                    "micro": ">=1.1.3"
+                }
+            }
+        ]
+    }
+]

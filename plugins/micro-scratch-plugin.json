@@ -1,0 +1,16 @@
+[
+	{
+		"Name": "scratch",
+		"Description": "gives access to a function to create temporary buffers",
+		"Tags": ["scratch"],
+		"Versions": [
+			{
+				"Version": "1.0.0",
+				"Url": "https://github.com/micro-editor/plugin-channel/releases/download/plugins/micro-scratch-plugin-1.0.0.zip",
+				"Require": {
+					"micro": ">=1.1.2"
+				}
+			}
+		]
+	}
+]

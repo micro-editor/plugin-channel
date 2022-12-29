@@ -1,9 +1,6 @@
 [
-  // Comment plugin
-  "https://raw.githubusercontent.com/micro-editor/comment-plugin/master/repo.json",
-
   // EditorConfig plugin
-  "https://raw.githubusercontent.com/10sr/editorconfig-micro/master/repo.json",
+  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/editorconfig-micro.json",
 
   // Fish plugin
   "https://raw.githubusercontent.com/micro-editor/updated-plugins/master/micro-fish-plugin/repo.json",
@@ -12,7 +9,7 @@
   "https://raw.githubusercontent.com/micro-editor/updated-plugins/master/fzf/repo.json",
 
   // Go plugin
-  "https://raw.githubusercontent.com/micro-editor/go-plugin/master/repo.json",
+  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/go.json",
 
   // Snippets plugin
    "https://raw.githubusercontent.com/micro-editor/updated-plugins/master/micro-snippets-plugin/repo.json",
@@ -30,13 +27,10 @@
   "https://raw.githubusercontent.com/micro-editor/updated-plugins/master/micro-crystal/repo.json",
 
   // Gotham colorscheme
-  "https://raw.githubusercontent.com/novln/micro-gotham-colors/master/repo.json",
+  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-gotham-colors.json",
 
   // monokai-dark colorscheme
-  "https://raw.githubusercontent.com/Theodus/micro-monokai-dark/master/repo.json",
-
-  // scratch file plugin
-  "https://raw.githubusercontent.com/samdmarshall/micro-scratch-plugin/master/repo.json",
+  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-monokai-dark.json",
 
   // Manipulator plugin
   "https://raw.githubusercontent.com/micro-editor/updated-plugins/master/manipulator-plugin/repo.json",
@@ -44,50 +38,47 @@
   // Filemanager plugin
   "https://raw.githubusercontent.com/micro-editor/updated-plugins/master/filemanager-plugin/repo.json",
 
-  // fmt plugin
-  "https://raw.githubusercontent.com/sum01/fmt-micro/master/repo.json",
-
   // JoinLines plugin
-  "https://raw.githubusercontent.com/Lisiadito/join-lines-plugin/master/repo.json",
+  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/join-lines-plugin.json",
   
   // Quoter plugin
-  "https://raw.githubusercontent.com/deusnefum/micro-quoter/master/repo.json",
+  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-quoter.json",
   
   // Bounce plugin
-  "https://raw.githubusercontent.com/deusnefum/micro-bounce/master/repo.json",
+  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-bounce.json",
 
   // zigfmt plugin
-  "https://raw.githubusercontent.com/squeek502/micro-zigfmt/master/repo.json",
+  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-zigfmt.json",
   
   // Aspell plugin
-  "https://raw.githubusercontent.com/priner/micro-aspell-plugin/master/repo.json",
+  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-aspell-plugin.json",
   
   // jlabbrev plugin
-  "https://raw.githubusercontent.com/MasFlam/jlabbrev/master/repo.json",
+  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/jlabbrev.json",
 
   // wakatime plugin
-  "https://raw.githubusercontent.com/wakatime/micro-wakatime/master/repo.json",
+  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-wakatime.json",
   
   // nord colorschemes
-  "https://raw.githubusercontent.com/KiranWells/micro-nord-tc-colors/main/repo.json",
+  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-nord-tc-colors.json",
 
   // yapf plugin
-  "https://raw.githubusercontent.com/a11ce/micro-yapf/master/repo.json",
+  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-autofmt.json",
 
   // bookmark plugin
-  "https://raw.githubusercontent.com/haqk/micro-bookmark/main/repo.json",
+  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-bookmark.json",
 
   // quickfix plugin
-  "https://raw.githubusercontent.com/serge-v/micro-quickfix/main/repo.json",
+  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-quickfix.json",
 
   // jump plugin
-  "https://raw.githubusercontent.com/terokarvinen/micro-jump/main/repo.json",
+  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-jump.json",
 
   // detectindent plugin
-  "https://raw.githubusercontent.com/dmaluka/micro-detectindent/master/repo.json",
+  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-detectindent.json",
 
   // lsp plugin
-  "https://raw.githubusercontent.com/andcake/micro-plugin-lsp/master/repo.json"
+  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-plugin-lsp.json",
   
   // TNSL plugin
   "https://raw.githubusercontent.com/CircleShift/tnsl-micro-plugin/master/repo.json"

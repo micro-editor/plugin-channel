@@ -1,0 +1,16 @@
+[{
+  "Name": "quickfix",
+  "Description": "Plugin to speedup the edit-make-edit development cycle.",
+  "Tags": ["quickfix"],
+  "Website": "https://github.com/serge-v/micro-quickfix",
+  "License": "MIT",
+  "Versions": [
+    {
+      "Version": "2.1.2",
+      "Url": "https://github.com/micro-editor/plugin-channel/releases/download/plugins/micro-quickfix-2.1.2.zip",
+      "Require": {
+        "micro": ">=2.0.0"
+      }
+    }
+  ]
+}]

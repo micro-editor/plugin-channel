@@ -1,0 +1,16 @@
+[{
+    "Name": "wakatime",
+    "Description": "Metrics, insights, and time tracking automatically generated from your programming activity",
+    "Website": "https://github.com/wakatime/micro-wakatime",
+    "Tags": ["productivity", "time tracking", "project", "git", "timer"],
+    "Versions": [
+      {
+        "Version": "1.0.5",
+        "Url": "https://github.com/micro-editor/plugin-channel/releases/download/plugins/micro-wakatime-1.0.5.zip",
+        "Require": {
+          "micro": ">=2.0.0"
+        }
+      }
+    ]
+}]
+
