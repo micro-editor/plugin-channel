@@ -1,0 +1,12 @@
+[{
+  "Name": "capitalizer",
+  "Description": "Micro plugin capitalize selection",
+  "Website": "https://github.com/CodeGiorgino/capitalizer"
+  "Tags": ["capitalize", "text"],
+  "Versions": [
+    {
+      "Version": "1.1.0",
+	  "Url": "https://github.com/micro-editor/plugin-channel/releases/download/plugins/micro-capitalizer-1.1.0.zip"
+    }
+  ]
+}]
