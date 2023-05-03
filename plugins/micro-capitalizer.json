@@ -3,6 +3,7 @@
   "Description": "Micro plugin capitalize selection",
   "Website": "https://github.com/CodeGiorgino/capitalizer"
   "Tags": ["capitalize", "text"],
+  "License": "MIT",
   "Versions": [
     {
       "Version": "1.1.0",
