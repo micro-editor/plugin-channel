@@ -79,4 +79,7 @@
 
   // lsp plugin
   "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-plugin-lsp.json"
+
+  // capitalizer plugin
+  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/capitalizer.json"  
 ]
