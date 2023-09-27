@@ -1,0 +1,16 @@
+[{
+  "Name": "align",
+  "Description": "aligns multiple cursors",
+  "Tags": ["align"],
+  "Website": "https://github.com/mosskjohnson/align-plugin",
+  "License": "MIT",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "Url": "https://github.com/mosskjohnson/align-plugin/archive/refs/tags/v1.0.0.zip",
+      "Require": {
+        "micro": ">=2.0.0-1"
+      }
+    }
+  ]
+}]
