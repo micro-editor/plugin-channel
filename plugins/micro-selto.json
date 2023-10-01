@@ -1,0 +1,16 @@
+[{
+  "Name": "selto",
+  "Description": "Simple plugin allowing to quickly select lines",
+  "Tags": ["selection", "select", "lines", "line"],
+  "Website": "https://github.com/PawelMTRK/micro-selto-plugin",
+  "Licence": "MIT",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "Url": "https://github.com/PawelMTRK/micro-selto-plugin/archive/refs/tags/v1.0.0.zip",
+      "Require": {
+        "micro": ">=2.0.0"
+      }
+    }
+  ]
+}]
