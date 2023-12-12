@@ -1,0 +1,16 @@
+[{
+    "Name": "battery",
+    "Description": "Battery displays battery percentage",
+    "Tags": ["battery", "laptop"],
+    "Website": "https://github.com/dubyte/micro-dubyte",
+    "License": "MIT",
+    "Versions": [
+      {
+        "Version": "0.0.1",
+        "Url": "https://github.com/micro-editor/plugin-channel/releases/download/plugins/micro-battery-0.0.1.zip",
+        "Require": {
+          "micro": ">=2.0.0"
+        }
+      }
+    ]
+  }]
