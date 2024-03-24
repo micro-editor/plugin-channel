@@ -1,0 +1,166 @@
+[
+    {
+        "Description": "The plugin manager provides a way to manage linters, formatters, commands, keybindings, settings, plugins.",
+        "License": "GPL-3.0-or-later",
+        "Name": "manager",
+        "Tags": [
+            "keybindings",
+            "bind",
+            "bindings",
+            "cmd",
+            "codestyle",
+            "command",
+            "commands",
+            "config",
+            "fmt",
+            "format",
+            "formatter",
+            "formatters",
+            "formatting",
+            "init.lua",
+            "lint",
+            "linter",
+            "linters",
+            "linting",
+            "lua",
+            "micro",
+            "micro-editor",
+            "micro-plugin",
+            "onSave",
+            "plug",
+            "plugin",
+            "plugins",
+            "settings",
+            "settings.json"
+        ],
+        "Versions": [
+            {
+                "Require": {
+                    "micro": ">=2.0.13"
+                },
+                "Url": "https://codeberg.org/micro-plugins/manager/archive/v3.3.0.zip",
+                "Version": "3.3.0"
+            },
+            {
+                "Require": {
+                    "micro": ">=2.0.13"
+                },
+                "Url": "https://codeberg.org/micro-plugins/manager/archive/v3.2.4.zip",
+                "Version": "3.2.4"
+            },
+            {
+                "Require": {
+                    "micro": ">=2.0.13"
+                },
+                "Url": "https://codeberg.org/micro-plugins/manager/archive/v3.2.3.zip",
+                "Version": "3.2.3"
+            },
+            {
+                "Require": {
+                    "micro": ">=2.0.13"
+                },
+                "Url": "https://codeberg.org/micro-plugins/manager/archive/v3.2.2.zip",
+                "Version": "3.2.2"
+            },
+            {
+                "Require": {
+                    "micro": ">=2.0.13"
+                },
+                "Url": "https://codeberg.org/micro-plugins/manager/archive/v3.2.1.zip",
+                "Version": "3.2.1"
+            },
+            {
+                "Require": {
+                    "micro": ">=2.0.13"
+                },
+                "Url": "https://codeberg.org/micro-plugins/manager/archive/v3.2.0.zip",
+                "Version": "3.2.0"
+            },
+            {
+                "Require": {
+                    "micro": ">=2.0.13"
+                },
+                "Url": "https://codeberg.org/micro-plugins/manager/archive/v3.1.0.zip",
+                "Version": "3.1.0"
+            },
+            {
+                "Require": {
+                    "micro": ">=2.0.12"
+                },
+                "Url": "https://codeberg.org/micro-plugins/manager/archive/v3.0.0.zip",
+                "Version": "3.0.0"
+            },
+            {
+                "Require": {
+                    "micro": ">=2.0.12"
+                },
+                "Url": "https://codeberg.org/micro-plugins/manager/archive/v2.1.1.zip",
+                "Version": "2.1.1"
+            },
+            {
+                "Require": {
+                    "micro": ">=2.0.11"
+                },
+                "Url": "https://codeberg.org/micro-plugins/manager/archive/v2.1.0.zip",
+                "Version": "2.1.0"
+            },
+            {
+                "Require": {
+                    "micro": ">=2.0.11"
+                },
+                "Url": "https://codeberg.org/micro-plugins/manager/archive/v2.0.4.zip",
+                "Version": "2.0.4"
+            },
+            {
+                "Require": {
+                    "micro": ">=2.0.11"
+                },
+                "Url": "https://codeberg.org/micro-plugins/manager/archive/v2.0.3.zip",
+                "Version": "2.0.3"
+            },
+            {
+                "Require": {
+                    "micro": ">=2.0.11"
+                },
+                "Url": "https://codeberg.org/micro-plugins/manager/archive/v2.0.2.zip",
+                "Version": "2.0.2"
+            },
+            {
+                "Require": {
+                    "micro": ">=2.0.11"
+                },
+                "Url": "https://codeberg.org/micro-plugins/manager/archive/v2.0.1.zip",
+                "Version": "2.0.1"
+            },
+            {
+                "Require": {
+                    "micro": ">=2.0.11"
+                },
+                "Url": "https://codeberg.org/micro-plugins/manager/archive/v2.0.0.zip",
+                "Version": "2.0.0"
+            },
+            {
+                "Require": {
+                    "micro": ">=2.0.11"
+                },
+                "Url": "https://codeberg.org/micro-plugins/manager/archive/v1.0.0.zip",
+                "Version": "1.0.0"
+            },
+            {
+                "Require": {
+                    "micro": ">=2.0.11"
+                },
+                "Url": "https://codeberg.org/micro-plugins/manager/archive/v0.1.1.zip",
+                "Version": "0.1.1"
+            },
+            {
+                "Require": {
+                    "micro": ">=2.0.11"
+                },
+                "Url": "https://codeberg.org/micro-plugins/manager/archive/v0.1.0.zip",
+                "Version": "0.1.0"
+            }
+        ],
+        "Website": "https://manager.readthedocs.io"
+    }
+]

@@ -1,4 +1,7 @@
 [
+  // manager plugin
+  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/manager.json",
+
   // EditorConfig plugin
   "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/editorconfig-micro.json",
 
