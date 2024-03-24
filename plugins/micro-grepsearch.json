@@ -4,6 +4,7 @@
 		"Description": "using grep to recursively search in files",
 		"Tags": ["search"],
         "Website": "https://github.com/gaenseklein/grepsearch",
+		"License": "GPL3",
 		"Versions": [
 			{
 				"Version": "1.0.0",
