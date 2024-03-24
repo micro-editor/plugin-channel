@@ -33,6 +33,7 @@ This repository contains the 'channel.json' file which lists all official micro 
 | `jump`      | Jump to any function, class or heading with F4. Go, Markdown, Python, C and in 40 other languages | https://github.com/terokarvinen/micro-jump   | :heavy_check_mark:      |
 | `detectindent`  | Automatically detect indentation settings               | https://github.com/dmaluka/micro-detectindent              | :heavy_check_mark:                       |
 | `lsp`           | An basic LSP client implementation                      | https://github.com/AndCake/micro-plugin-lsp                | :heavy_check_mark:                       |
+| `repfiles`      | A file manager for your git repository                  | https://github.com/gaenseklein/repfiles                	 | :heavy_check_mark:                       |
 
 
 ## Adding your own plugin
