@@ -1,0 +1,16 @@
+[{
+  "Name": "repfiles",
+  "Description": "a filemanager for your repository",
+  "Tags": ["filemanager", "git", "repository"],
+  "Website": "https://github.com/gaenseklein/repfiles",
+  "License": "GPL3",
+  "Versions": [    
+    {
+      "Version": "1.0.0",
+      "Url": "https://github.com/micro-editor/plugin-channel/releases/download/plugins/repfiles-1.0.0.zip",
+      "Require": {
+        "micro": ">=2.0.10"
+      }
+    }
+  ]
+}]

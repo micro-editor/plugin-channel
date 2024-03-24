@@ -78,5 +78,8 @@
   "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-detectindent.json",
 
   // lsp plugin
-  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-plugin-lsp.json"
+  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-plugin-lsp.json",
+
+  //repfiles plugin
+  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/repfiles.json"
 ]
