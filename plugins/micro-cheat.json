@@ -1,0 +1,36 @@
+[{
+  "Name": "cheat",
+  "Description": "F1 for cheatsheet related to the type of file you're editing: Lua, Go, Python...",
+  "Website": "https://terokarvinen.com/micro",
+  "Tags": ["cheatsheet", "help", "docs", "Lua", "Go", "Python", "reference"],
+  "License": "MIT license",
+  "Versions": [
+    {
+      "Version": "0.0.4",
+      "Url": "https://github.com/terokarvinen/micro-cheat/archive/v0.0.4.zip",
+      "Require": {
+        "micro": ">=2.0.0"
+      }
+    },
+    {
+      "Version": "0.0.3",
+      "Url": "https://github.com/terokarvinen/micro-cheat/archive/v0.0.3.zip",
+      "Require": {
+        "micro": ">=2.0.0"
+      }
+    },
+    {
+      "Version": "0.0.2",
+      "Url": "https://github.com/terokarvinen/micro-cheat/archive/v0.0.2.zip",
+      "Require": {
+        "micro": ">=2.0.0"
+      }
+    },
+    {
+      "Version": "0.0.1",
+      "Require": {
+        "micro": ">=2.0.0"
+      }
+    }
+  ]
+}]
