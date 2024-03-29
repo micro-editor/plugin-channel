@@ -33,6 +33,9 @@ This repository contains the 'channel.json' file which lists all official micro 
 | `jump`      | Jump to any function, class or heading with F4. Go, Markdown, Python, C and in 40 other languages | https://github.com/terokarvinen/micro-jump   | :heavy_check_mark:      |
 | `detectindent`  | Automatically detect indentation settings               | https://github.com/dmaluka/micro-detectindent              | :heavy_check_mark:                       |
 | `lsp`           | An basic LSP client implementation                      | https://github.com/AndCake/micro-plugin-lsp                | :heavy_check_mark:                       |
+| `run`      | F5 to save and run, F12 to 'make', F9 to 'make' in background. Go, Python, Lua and executable file (#!) supported. Can 'make' whole project even from subdir. | https://github.com/terokarvinen/micro-run   | :heavy_check_mark:      |
+| `palettero`      | Command palette - Ctrl-P to fuzzy search & run commands, textfilters and descriptions. Use Python oneliners and grep to edit text. |  https://github.com/terokarvinen/palettero  | :heavy_check_mark:      |
+| `cheat`      | F1 cheatsheet for the language you're editing: Python, Go, Lua... |  https://github.com/terokarvinen/micro-cheat  | :heavy_check_mark:      |
 | `selto`         | Quickly select multiple lines                           | https://github.com/PawelMTRK/micro-selto-plugin            | :heavy_check_mark:                       |
 
 

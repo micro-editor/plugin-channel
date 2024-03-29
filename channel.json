@@ -78,8 +78,18 @@
   "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-detectindent.json",
 
   // lsp plugin
-  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-plugin-lsp.json"
+  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-plugin-lsp.json",
 
+  // run plugin
+  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-run.json",
+
+  // palettero plugin
+  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/palettero.json",
+
+  // cheat plugin
+  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-cheat.json",
+  
   // selto plugin
   "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-selto.json"  
+
 ]
