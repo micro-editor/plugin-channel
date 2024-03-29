@@ -38,7 +38,6 @@ This repository contains the 'channel.json' file which lists all official micro 
 | `cheat`      | F1 cheatsheet for the language you're editing: Python, Go, Lua... |  https://github.com/terokarvinen/micro-cheat  | :heavy_check_mark:      |
 | `selto`         | Quickly select multiple lines                           | https://github.com/PawelMTRK/micro-selto-plugin            | :heavy_check_mark:                       |
 
-
 ## Adding your own plugin
 
 To add your own plugin, create a `repo.json` file containing all the metadata

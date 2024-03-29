@@ -1,0 +1,44 @@
+[{
+  "Name": "runit",
+  "Description": "Press F5 to save and run, F12 to make, F9 to make in background.",
+  "Website": "https://github.com/terokarvinen/micro-run",
+  "Tags": ["run", "execute", "Go", "Python", "Bash", "Lua", "F5"],
+  "License": "MIT license",
+  "Versions": [
+    {
+      "Version": "0.0.8",
+      "Url": "https://github.com/terokarvinen/micro-run/archive/v0.0.8.zip",
+      "Require": {
+        "micro": ">=2.0.0"
+      }
+    },
+    {
+      "Version": "0.0.7",
+      "Url": "https://github.com/terokarvinen/micro-run/archive/v0.0.7.zip",
+      "Require": {
+        "micro": ">=2.0.0"
+      }
+    },
+    {
+      "Version": "0.0.6",
+      "Url": "https://github.com/terokarvinen/micro-run/archive/v0.0.6.zip",
+      "Require": {
+        "micro": ">=2.0.0"
+      }
+    },
+    {
+      "Version": "0.0.5",
+      "Url": "https://github.com/terokarvinen/micro-run/archive/v0.0.5.zip",
+      "Require": {
+        "micro": ">=2.0.0"
+      }
+    },
+    {
+      "Version": "0.0.4",
+      "Url": "https://github.com/terokarvinen/micro-run/archive/v0.0.4.zip",
+      "Require": {
+        "micro": ">=2.0.0"
+      }
+    }
+  ]
+}]
