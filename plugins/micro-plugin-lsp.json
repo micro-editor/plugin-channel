@@ -74,6 +74,13 @@
       "Require": {
         "micro": ">=2.0.8"
       }
+    },
+    {
+      "Version": "0.6.3",
+      "Url": "https://github.com/micro-editor/plugin-channel/releases/download/plugins/micro-plugin-lsp-0.6.3.zip",
+      "Require": {
+        "micro": ">=2.0.8"
+      }
     }
   ]
 }]
