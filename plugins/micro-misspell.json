@@ -5,7 +5,7 @@
   "Versions": [
     {
       "Version": "0.2.0",
-      "Url": "https://github.com/micro-editor/plugin-channel/releases/download/plugins/0.2.0.zip",
+      "Url": "https://github.com/micro-editor/plugin-channel/releases/download/plugins/v0.2.0.zip",
       "Require": {
         "micro": ">=2.0.0"
       }
