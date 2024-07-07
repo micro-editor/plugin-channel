@@ -8,7 +8,7 @@
 		"Versions": [
 			{
 				"Version": "1.4.0",				
-				"Url": "https://github.com/gaenseklein/sniptab/archive/refs/tags/v1.4.0.zip",
+				"Url": "https://github.com/micro-editor/plugin-channel/releases/download/plugins/sniptab-1.4.0.zip",
 				"Require": {
 					"micro": ">=2.0.8"
 				}
