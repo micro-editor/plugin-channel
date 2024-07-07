@@ -1,0 +1,18 @@
+[
+	{
+		"Name": "sniptab",
+		"Description": "a simple snippets-plugin to let you insert vim-style snippets and emmets on current location",
+		"Tags": ["snippet", "emmet", "insert", "jsdoc"],
+        "Website": "https://github.com/gaenseklein/sniptab",
+        "License": "GPL3",
+		"Versions": [
+			{
+				"Version": "1.4.0",				
+				"Url": "https://github.com/gaenseklein/sniptab/archive/refs/tags/v1.4.0.zip",
+				"Require": {
+					"micro": ">=2.0.8"
+				}
+			}
+		]
+	}
+]
