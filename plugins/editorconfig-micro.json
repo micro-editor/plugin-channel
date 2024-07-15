@@ -6,6 +6,13 @@
   "License": "MIT",
   "Versions": [
     {
+      "Version": "1.1.0",
+      "Url": "https://github.com/micro-editor/plugin-channel/releases/download/plugins/editorconfig-micro-1.1.0.zip",
+      "Require": {
+        "micro": ">=2.0.1"
+      }
+    },
+    {
       "Version": "1.0.0",
       "Url": "https://github.com/micro-editor/plugin-channel/releases/download/plugins/editorconfig-micro-1.0.0.zip",
       "Require": {
