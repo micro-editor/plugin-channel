@@ -1,0 +1,15 @@
+[{
+  "Name": "codestats",
+  "Description": "Code::Stats Plugin for Micro",
+  "Website": "https://github.com/redfire75369/code-stats-micro",
+  "Tags": ["codestats", "stats"],
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "Url": "https://github.com/micro-editor/plugin-channel/releases/download/plugins/codestats-1.0.0.zip",
+      "Require": {
+        "Micro": ">2.0.0"
+      }
+    }
+  ]
+}]
