@@ -1,0 +1,34 @@
+[
+    {
+        "Name": "lotus",
+        "Description": "Lotus theme",
+        "Website": "https://github.com/finn-chipp/lotus",
+        "License": "GPLv3",
+
+        "Tags": [
+            "lotus",
+            "color",
+            "colors",
+            "colour",
+            "colours",
+            "syntax",
+            "theme",
+            "themes",
+            "highlighting",
+            "dark",
+            "colorscheme",
+            "colorschemes"
+        ],
+
+        "Versions": [
+            {
+                "Version": "1.0.0",
+                "Url": "https://github.com/micro-editor/plugin-channel/releases/download/plugins/lotus-1.0.0.zip",
+
+                "Require": {
+                    "micro": ">=1.1.3"
+                }
+            }
+        ]
+    }
+]
