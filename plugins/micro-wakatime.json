@@ -5,8 +5,8 @@
     "Tags": ["productivity", "time tracking", "project", "git", "timer"],
     "Versions": [
       {
-        "Version": "1.0.5",
-        "Url": "https://github.com/micro-editor/plugin-channel/releases/download/plugins/micro-wakatime-1.0.5.zip",
+        "Version": "1.0.6",
+        "Url": "https://github.com/micro-editor/plugin-channel/releases/download/plugins/micro-wakatime-1.0.6.zip",
         "Require": {
           "micro": ">=2.0.0"
         }
