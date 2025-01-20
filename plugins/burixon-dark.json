@@ -5,6 +5,7 @@
     "Website": "https://github.com/BuriXon-code/micro-burixon-dark",
     "Author": "BuriXon-code",
     "Tags": ["colorscheme"],
+    "License": "MIT",
     "Versions": [
       {
         "Version": "1.0.0",
