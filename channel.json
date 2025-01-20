@@ -90,7 +90,5 @@
   "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-cheat.json",
 
   // BuriXon-code dark themes
-  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/burixon-dark.json",
-
-  
+  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/burixon-dark.json"
 ]
