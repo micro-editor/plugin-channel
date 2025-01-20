@@ -87,6 +87,10 @@
   "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/palettero.json",
 
   // cheat plugin
-  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-cheat.json"
+  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-cheat.json",
 
+  // BuriXon-code dark themes
+  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/burixon-themes.json",
+
+  
 ]
