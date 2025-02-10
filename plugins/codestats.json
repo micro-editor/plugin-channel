@@ -1,0 +1,44 @@
+[{
+  "Name": "codestats",
+  "Description": "Code::Stats Plugin for Micro",
+  "Website": "https://github.com/redfire75369/code-stats-micro",
+  "Tags": ["codestats", "stats"],
+  "License": "MIT",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "Url": "https://github.com/micro-editor/plugin-channel/releases/download/plugins/codestats-1.0.0.zip",
+      "Require": {
+        "micro": ">=2.0.0"
+      }
+    },
+    {
+      "Version": "1.0.1",
+      "Url": "https://github.com/micro-editor/plugin-channel/releases/download/plugins/codestats-1.0.1.zip",
+      "Require": {
+        "micro": ">=2.0.0"
+      }
+    },
+	{
+      "Version": "1.0.2",
+      "Url": "https://github.com/micro-editor/plugin-channel/releases/download/plugins/codestats-1.0.2.zip",
+      "Require": {
+        "micro": ">=2.0.0"
+      }
+    },
+	{
+      "Version": "1.1.0",
+      "Url": "https://github.com/micro-editor/plugin-channel/releases/download/plugins/codestats-1.1.0.zip",
+      "Require": {
+        "micro": ">=2.0.0"
+      }
+    },
+	{
+      "Version": "1.1.1",
+      "Url": "https://github.com/micro-editor/plugin-channel/releases/download/plugins/codestats-1.1.1.zip",
+      "Require": {
+        "micro": ">=2.0.0"
+      }
+    }
+  ]
+}]
