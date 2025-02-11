@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "burixon-dark",
+    "Description": "A collection of beautiful themes for the Micro editor",
+    "Website": "https://github.com/BuriXon-code/micro-burixon-dark",
+    "Author": "BuriXon-code",
+    "Tags": ["colorscheme"],
+    "License": "MIT",
+    "Versions": [
+      {
+        "Version": "1.0.0",
+        "Url": "https://github.com/micro-editor/plugin-channel/releases/download/plugins/burixon-dark-1.0.0.zip",
+        "Require": {
+          "micro": ">=1.1.3"
+        }
+      }
+    ]
+  }
+]
