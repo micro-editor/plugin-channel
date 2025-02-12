@@ -40,25 +40,25 @@
 
   // JoinLines plugin
   "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/join-lines-plugin.json",
-  
+
   // Quoter plugin
   "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-quoter.json",
-  
+
   // Bounce plugin
   "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-bounce.json",
 
   // zigfmt plugin
   "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-zigfmt.json",
-  
+
   // Aspell plugin
   "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-aspell-plugin.json",
-  
+
   // jlabbrev plugin
   "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/jlabbrev.json",
 
   // wakatime plugin
   "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-wakatime.json",
-  
+
   // nord colorschemes
   "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-nord-tc-colors.json",
 
@@ -87,6 +87,8 @@
   "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/palettero.json",
 
   // cheat plugin
-  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-cheat.json"
+  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-cheat.json",
 
+  // yazi plugin
+  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-yazi.json"
 ]
