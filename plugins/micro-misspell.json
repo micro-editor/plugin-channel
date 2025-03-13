@@ -1,0 +1,14 @@
+[{
+  "Name": "misspell",
+  "Description": "plugin that corrects commonly misspelled words",
+  "Tags": ["spell", "check", "misspell"],
+  "Versions": [
+    {
+      "Version": "0.2.0",
+      "Url": "https://github.com/micro-editor/plugin-channel/releases/download/plugins/v0.2.0.zip",
+      "Require": {
+        "micro": ">=2.0.0"
+      }
+    }
+  ]
+}]
