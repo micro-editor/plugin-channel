@@ -1,0 +1,14 @@
+[{
+  "Name": "yazi",
+  "Description": "Yazi integration for Micro",
+  "Tags": ["filetree", "filemanager", "file", "manager"],
+  "Website": "https://github.com/kanvolu/yazi.micro",
+  "License": "MIT",
+  "Versions": [{
+	  "Version": "0.1.0",
+	  "Url": "https://github.com/micro-editor/plugin-channel/releases/download/plugins/yazi-micro-0.1.0.zip",
+	  "Require": {
+		  "micro": ">=2.0.14"
+	  }
+	  }]
+}]
