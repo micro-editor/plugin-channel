@@ -1,0 +1,15 @@
+[{
+  "Name": "selectparagraphs",
+  "Description": "Continue paragraphs seletion, upwards or downwards, in any file.",
+  "Tags": ["select", "paragraph"],
+  "Website": "https://github.com/guifur/selectparagraphs",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "Url": "https://github.com/guifur/selectparagraphs",
+      "Require": {
+        "micro": ">=2.0.0-1"
+      }
+    }
+  ]
+}]
