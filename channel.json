@@ -89,4 +89,8 @@
   // cheat plugin
   "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-cheat.json"
 
+  // universal opener plugin
+  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/opener.json",
+
+
 ]

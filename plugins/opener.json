@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "opener",
+    "Description": "Universal opener: integrate Yazi/lf/fzf with Micro.",
+    "Website": "https://github.com/nazya/micro-opener",
+    "License": "MIT",
+    "Tags": ["finder", "file", "open", "yazi", "lf", "fzf"],
+    "Versions": [
+      {
+        "Version": "0.1.0",
+        "Url": "https://github.com/micro-editor/plugin-channel/releases/download/plugins/opener-0.1.0.zip",
+        "Require": { "micro": ">=2.0.0" }
+      }
+    ]
+  }
+]
