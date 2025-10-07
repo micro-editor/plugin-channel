@@ -1,0 +1,15 @@
+[{
+  "Name": "repeatmacro",
+  "Description": "A plugin to repeat the last recorded macro multiple times.",
+  "Tags": ["macro", "repeat", "automation"],
+  "Website": "https://gitlab.com/gunduzc/micro-repeatmacro",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "Url": "https://github.com/micro-editor/plugin-channel/releases/download/plugins/micro-repeatmacro-1.0.0.zip",
+      "Require": {
+        "micro": ">=2.0.0-1"
+      }
+    }
+  ]
+}]
