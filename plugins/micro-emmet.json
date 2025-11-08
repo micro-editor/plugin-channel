@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "emmet",
+    "Description": "Emmet — the essential toolkit for web-developers into micro",
+    "Tags": ["emmet", "css", "html", "abbreviation"],
+    "Website": "https://github.com/kayibea/micro-emmet.git",
+    "Versions": [
+      {
+        "Version": "0.0.1",
+        "Url": "https://github.com/kayibea/micro-emmet/archive/0.0.1.zip",
+        "Require": {
+          "micro": ">=2.0.14"
+        }
+      }
+    ]
+  }
+]
