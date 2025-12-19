@@ -1,0 +1,10 @@
+[
+  {
+    "version": "1.0.0",
+    "url": "https://github.com/dalekirkwood/markdown-autocomplete/archive/refs/tags/v1.0.0.tar.gz",
+    "checksum": "",
+    "require": {
+      "micro": ">=2.0.1"
+    }
+  }
+]
