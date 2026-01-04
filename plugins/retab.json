@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "retab",
+    "Description": "Utility for replacing indents TAB <-> SPACE.",
+    "Website": "https://github.com/BuriXon-code/micro-retab-plugin",
+    "Author": "Kamil BuriXon Burek",
+    "Tags": ["plugin"],
+    "License": "MIT",
+    "Versions": [
+      {
+        "Version": "1.0.0",
+        "Url": "https://github.com/micro-editor/plugin-channel/releases/download/plugins/retab-1.0.0.zip",
+        "Require": {
+          "micro": ">=2.0.0"
+        }
+      }
+    ]
+  }
+]
