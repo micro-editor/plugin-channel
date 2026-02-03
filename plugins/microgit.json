@@ -1,0 +1,16 @@
+[{
+  "Name": "microgit",
+  "Description": "Git integration with status in statusline, gutter indicators, blame support, and git commands",
+  "Tags": ["git", "version-control", "vcs"],
+  "Website": "https://github.com/sirjoaorodrigues/microgit",
+  "License": "MIT",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "Url": "https://github.com/micro-editor/plugin-channel/releases/download/plugins/microgit-1.0.1.zip",
+      "Require": {
+        "micro": ">=2.0.0"
+      }
+    }
+  ]
+}]
