@@ -1,12 +1,12 @@
 [{
   "Name": "smartstatus",
-  "Description": "Displays Git branch, battery percentage, and current time in the Micro editor status bar.",
-  "Tags": ["git", "battery", "status", "ui", "time"],
+  "Description": "Enriches Micro's status bar with shell type, filetype, filename, Git branch and status, cursor position, battery percentage, and current time.",
+  "Tags": ["git", "battery", "status", "ui", "time", "shell", "filetype", "cursor"],
   "Website": "https://github.com/sycorlax/micro-smartstatus",
   "License": "MIT",
   "Versions": [
     {
-      "Version": "1.0.0",
+      "Version": "2.0.0",
       "Url": "https://github.com/sycorlax/micro-smartstatus/archive/refs/heads/main.zip",
       "Require": {
         "micro": ">=2.0.0"
