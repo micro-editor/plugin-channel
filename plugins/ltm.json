@@ -1,0 +1,16 @@
+[{
+  "Name": "ltm",
+  "Description": "Lua text transforms over multi-cursor selections",
+  "Website": "https://github.com/Tubbles/ltm",
+  "Tags": ["utility", "text", "multi-cursor"],
+  "License": "AGPL-3.0-only",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "Url": "https://github.com/Tubbles/ltm/archive/refs/tags/v0.1.0.zip",
+      "Require": {
+        "micro": ">=2.0.0"
+      }
+    }
+  ]
+}]
