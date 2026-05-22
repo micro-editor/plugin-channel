@@ -35,6 +35,7 @@ This repository contains the 'channel.json' file which lists all official micro 
 | `lsp`           | An basic LSP client implementation                      | https://github.com/AndCake/micro-plugin-lsp                | :heavy_check_mark:                       |
 | `run`      | F5 to save and run, F12 to 'make', F9 to 'make' in background. Go, Python, Lua and executable file (#!) supported. Can 'make' whole project even from subdir. | https://github.com/terokarvinen/micro-run   | :heavy_check_mark:      |
 | `palettero`      | Command palette - Ctrl-P to fuzzy search & run commands, textfilters and descriptions. Use Python oneliners and grep to edit text. |  https://github.com/terokarvinen/palettero  | :heavy_check_mark:      |
+| `unicode`      | Unicode symbol input via backslash abbreviations (Lean4/LaTeX/HOL4) |  https://github.com/lukaszcz/micro-unicode  | :heavy_check_mark:      |
 | `cheat`      | F1 cheatsheet for the language you're editing: Python, Go, Lua... |  https://github.com/terokarvinen/micro-cheat  | :heavy_check_mark:      |
 
 ## Adding your own plugin

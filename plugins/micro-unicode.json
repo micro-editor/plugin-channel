@@ -1,0 +1,16 @@
+[{
+  "Name": "unicode",
+  "Description": "Unicode symbol input via backslash abbreviations (Lean4/LaTeX/HOL4)",
+  "Website": "https://github.com/lukaszcz/micro-unicode",
+  "Tags": ["unicode", "input", "symbols", "latex", "lean4"],
+  "License": "MIT",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "Url": "https://github.com/lukaszcz/micro-unicode/archive/v1.0.0.zip",
+      "Require": {
+        "micro": ">=2.0.0"
+      }
+    }
+  ]
+}]

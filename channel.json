@@ -86,6 +86,9 @@
   // palettero plugin
   "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/palettero.json",
 
+  // unicode plugin
+  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-unicode.json",
+
   // cheat plugin
   "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-cheat.json"
 
