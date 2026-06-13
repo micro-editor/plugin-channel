@@ -3,14 +3,14 @@
   "Description": "Bookmark lines to quickly jump between saved positions",
   "Tags": ["bookmark"],
   "Website": "https://github.com/haqk/micro-bookmark",
+  "License": "MIT",
   "Versions": [
     {
-      "Version": "2.2.3",
-      "Url": "https://github.com/micro-editor/plugin-channel/releases/download/plugins/micro-bookmark-2.2.1.zip",
+      "Version": "2.5.0",
+      "Url": "https://github.com/haqk/micro-bookmark/archive/v2.5.0.zip",
       "Require": {
         "micro": ">=2.0.0"
       }
     }
   ]
 }]
-
