@@ -6,8 +6,8 @@
   "License": "MIT",
   "Versions": [
     {
-      "Version": "2.3.11",
-      "Url": "https://github.com/haqk/micro-bookmark/archive/v2.3.11.zip",
+      "Version": "2.5.0",
+      "Url": "https://github.com/haqk/micro-bookmark/archive/v2.5.0.zip",
       "Require": {
         "micro": ">=2.0.0"
       }
