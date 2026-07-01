@@ -87,6 +87,11 @@
   "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/palettero.json",
 
   // cheat plugin
-  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-cheat.json"
+  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-cheat.json",
 
+  // battery status plugin
+  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-batt-status.json",
+
+  // syncthing status plugin
+   "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-syncthing-status.json"
 ]
