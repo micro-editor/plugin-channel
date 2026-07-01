@@ -1,0 +1,16 @@
+[{
+  "Name": "batt",
+  "Description": "Battery capacity and charging state for status",
+  "Tags": ["battery", "status"],
+  "Website": "https://codeberg.org/johnwoltman/micro-batt-status",
+  "License": "GNU General Public License v3",
+  "Versions": [
+    {
+      "Version": "1.1.0",
+      "Url": "https://github.com/micro-editor/plugin-channel/releases/download/plugins/micro-batt-status-1.1.0.zip",
+      "Require": {
+        "micro": ">=2.0.7"
+      }
+    }
+  ]
+}]

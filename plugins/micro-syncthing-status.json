@@ -1,0 +1,16 @@
+[{
+  "Name": "syncthing",
+  "Description": "Shows if a file is synced with Syncthing",
+  "Tags": ["syncthing", "status"],
+  "Website": "https://codeberg.org/johnwoltman/micro-syncthing-status",
+  "License": "GNU General Public License v3",
+  "Versions": [
+    {
+      "Version": "1.1.0",
+      "Url": "https://github.com/micro-editor/plugin-channel/releases/download/plugins/micro-syncthing-status-1.1.0.zip",
+      "Require": {
+        "micro": ">=2.0.7"
+      }
+    }
+  ]
+}]
