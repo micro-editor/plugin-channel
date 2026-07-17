@@ -90,6 +90,6 @@
   "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-cheat.json",
 
   // olwb plugin
-  "https://raw.githubusercontent.com/TGPSKI/olwb-micro-plugin/main/repo.json"
+  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/olwb.json"
 
 ]
