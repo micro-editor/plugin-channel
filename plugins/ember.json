@@ -1,0 +1,29 @@
+[
+    {
+        "Name": "ember",
+        "Description": "Four warm truecolor colorschemes: two transparent darks, one opaque dark, one light",
+        "Author": "vish9812",
+        "Website": "https://github.com/vish9812/micro-ember",
+        "License": "MIT",
+        "Tags": [
+            "colorscheme",
+            "colorschemes",
+            "colors",
+            "color",
+            "theme",
+            "themes",
+            "truecolor",
+            "dark",
+            "light"
+        ],
+        "Versions": [
+            {
+                "Version": "1.0.0",
+                "Url": "https://github.com/vish9812/micro-ember/archive/v1.0.0.zip",
+                "Require": {
+                    "micro": ">=2.0.0"
+                }
+            }
+        ]
+    }
+]

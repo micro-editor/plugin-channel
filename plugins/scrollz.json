@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "scrollz",
+        "Description": "Scroll the cursor's line to the top or bottom of the view, and half-page jumps that bring the cursor with you, centered",
+        "Author": "vish9812",
+        "Website": "https://github.com/vish9812/micro-scrollz",
+        "License": "MIT",
+        "Tags": [
+            "scroll",
+            "scrolling",
+            "viewport",
+            "navigation",
+            "softwrap",
+            "vim"
+        ],
+        "Versions": [
+            {
+                "Version": "1.0.0",
+                "Url": "https://github.com/vish9812/micro-scrollz/archive/v1.0.0.zip",
+                "Require": {
+                    "micro": ">=2.0.0"
+                }
+            }
+        ]
+    }
+]
