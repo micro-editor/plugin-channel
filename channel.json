@@ -87,6 +87,12 @@
   "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/palettero.json",
 
   // cheat plugin
-  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-cheat.json"
+  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-cheat.json",
+
+  // scrollz plugin
+  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/scrollz.json",
+
+  // ember colorschemes
+  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/ember.json"
 
 ]
