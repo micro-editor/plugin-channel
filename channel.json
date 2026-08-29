@@ -43,6 +43,9 @@
   
   // Quoter plugin
   "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-quoter.json",
+
+  // Quoter Mk2 plugin
+  "https://raw.githubusercontent.com/deoxify/micro-quotermk2/refs/heads/main/repo.json",
   
   // Bounce plugin
   "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-bounce.json",
