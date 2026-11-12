@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "modelines",
+    "Description": "Per-file settings via a modeline comment: syntax, indentation, word wrap and color column.",
+    "Website": "https://github.com/tealaforgia/micro-modelines",
+    "Tags": ["modeline", "syntax", "indentation", "wordwrap", "colorcolumn"],
+    "Versions": [
+      {
+        "Version": "0.1.0",
+        "Url": "https://github.com/tealaforgia/micro-modelines/archive/refs/tags/v0.1.0.zip",
+        "Require": {
+          "micro": ">=2.0.0"
+        }
+      }
+    ]
+  }
+]
