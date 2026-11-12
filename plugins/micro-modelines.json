@@ -7,7 +7,7 @@
     "Versions": [
       {
         "Version": "0.1.0",
-        "Url": "https://github.com/tealaforgia/micro-modelines/archive/refs/tags/v0.1.0.zip",
+        "Url": "https://github.com/micro-editor/plugin-channel/releases/download/plugins/modelines.zip",
         "Require": {
           "micro": ">=2.0.0"
         }
